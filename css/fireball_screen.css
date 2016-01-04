@@ -60,7 +60,7 @@ a {
 
 a:link {
 	text-decoration: none;
-	color: #B0B0B0;
+	color: #232323;
 /*	border-color: #888; <-- commented out by Mike 1/4/16 */
 	border-width: 0 0 1px 0;
 	border-style: none none solid none;
@@ -518,16 +518,16 @@ and (max-device-width : 568px) {
 	}
 
 #Sidebar a {
-	color: #eee;
+	color: #232323;
 	padding: 4px 1px 4px 1px;
 	text-decoration: none;
 	}
 #Sidebar a:link {
-	color: #eee;
+	color: #232323;
 	border: 0;
 	}
 #Sidebar a:visited {
-	color: #eee;
+	color: #B0B0B0;
 	border: 0;
 	}
 #Sidebar a:hover {
