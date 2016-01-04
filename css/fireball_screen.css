@@ -35,7 +35,7 @@ blockquote strong {
 	}
 
 body {
-	-webkit-text-size-adjust: none;
+	-webkit-text-size-adjust: auto; /*was originally none (mike) */
 	margin-top: 0;
 	padding: 0;
 	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
@@ -43,9 +43,14 @@ body {
 	color: #fff;
 	text-align: left;
 	min-width: 760px;
-	background-color: #4a525a; /* dark blue slate thing */
+	/* background-color: #4a525a;  dark blue slate thing */
 	}
-
+/*Below was added by mike 1/4/16 */
+body   { font-size: 11px; }
+@media only screen and (max-device-width: 480px)  {
+	body { font-size: 17px; }
+}
+/*end what was added by mike 1/4/16 */
 a {
 	text-decoration: none;
 	}
@@ -53,7 +58,7 @@ a {
 a:link {
 	text-decoration: none;
 	color: #ddd;
-	border-color: #888;
+/*	border-color: #888; <-- commented out by Mike 1/4/16 */
 	border-width: 0 0 1px 0;
 	border-style: none none solid none;
 	padding: 3px 0px 2px 0px;
