@@ -804,17 +804,17 @@ and (max-device-width : 568px) {
 	border-width: 0;
 	border-style: dotted;
 	border-color: gray;
-	color: #eee;
+	color: #5F5F5F;
 	}
 
 .post h1 a {
-	color: #eee;
+	color: #5F5F5F;
 	text-decoration: none;
 	border: 0;
 	}
 
 .post h1 a:visited {
-	color: #eee;
+	color: #9f9f9f;
 	}
 .post img {
 	border: 0px solid #ccc; /* 7 Jan 2011 */
