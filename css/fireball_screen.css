@@ -7,8 +7,11 @@
 	Layout No. 2 / v1.70
 */
 
+/*
 @import "/css/fireball_fontsize.php";
 @import "/css/fireball_unicode.css";
+the above was commented out by mike 1/4/16 because the important aspects of the code were pasted inline below
+*/
 
 html {
 	/* cf. http://www.hicksdesign.co.uk/journal/forcing-scrollbars-now-even-better */
@@ -40,7 +43,7 @@ body {
 	padding: 0;
 	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
 	line-height: 1.8em;
-	color: #fff;
+	color: #262626;
 	text-align: left;
 	min-width: 760px;
 	/* background-color: #4a525a;  dark blue slate thing */
@@ -57,7 +60,7 @@ a {
 
 a:link {
 	text-decoration: none;
-	color: #ddd;
+	color: #B0B0B0;
 /*	border-color: #888; <-- commented out by Mike 1/4/16 */
 	border-width: 0 0 1px 0;
 	border-style: none none solid none;
@@ -66,8 +69,8 @@ a:link {
 	}
 
 a:visited {
-	color: #ddd;
-	border-color: #999;
+	color: #B0B0B0;
+	border-color: #aa8888;
 	border-width: 0 0 1px 0;
 	border-style: none none dotted none;
 	padding: 3px 0px 2px 0px;
