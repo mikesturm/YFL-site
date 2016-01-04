@@ -461,7 +461,7 @@ and (max-device-width : 568px) {
 #Sidebar {
 	position: absolute;
 	top: 191px;
-	margin: 0 0 0 -222px; /* IE/Win 6 Workaround Hack */
+	margin: 0 0 0 -1rem; /* IE/Win 6 Workaround Hack */
 /*
 	-- Used this instead of the above for Sidebar positioning from Oct 2003 - Feb 2006
 	-- but abandoned it because of the way IE/Win deals with wider-than-425px elements
