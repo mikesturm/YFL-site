@@ -94,6 +94,7 @@ a em {
 
 sup {
 	line-height: 0px;
+	text-decoration: none ! important;
 	}
 sup a:link {
 	padding: 3px;
