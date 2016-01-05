@@ -436,7 +436,7 @@ and (max-device-width : 568px) {
 #Main {
 	padding: 0px;
 	border: 0px dotted gray;
-	margin-left: 222px;
+	margin-left: 200px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-top: 0px;
@@ -471,7 +471,7 @@ and (max-device-width : 568px) {
 	width: 160px;
 	height: auto;
 	border-right: 1px dotted gray;
-	padding: 0 0 0 0px;
+	padding-right: 3px;
 	background-color: transparent;
 	color: #eee;
 	text-align: right;
