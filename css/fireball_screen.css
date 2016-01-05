@@ -116,7 +116,7 @@ h1 {
 	font-size: 1.55em; /* was 1.46em for Georgia */
 	line-height: 1.5em;
 	text-align: left;
-	font-weight: normal;
+	font-weight: bold;
 	margin: 0em 0px 1.25em 0px;
 	}
 
@@ -447,11 +447,11 @@ and (max-device-width : 568px) {
 #Main {
 	padding: 0px;
 	border: 0px dotted gray;
-	margin-left: 200px;
+	margin-left: 225px;
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-top: 0px;
-	width: 425px;
+	width: 435px;
 	}
 
 #MainFullWidth {
