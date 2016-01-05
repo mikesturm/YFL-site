@@ -4,10 +4,11 @@ title: Outline Your Life, or Run the Risk of Failing to Live it.
 categories: []
 tags: [productivity, GTD, organization]
 description:
-image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/clouds.jpg
+image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets
 comments: true
 ---
 
+![clouds](/graphics/clouds.jpg)
 
 Can you quickly, and without hemming and hawing, answer the following 2 part question?
 

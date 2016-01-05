@@ -13,7 +13,7 @@ comments: true
 The year has ended--2015, that is--and thus begins the mass (if short-lived) migration of people from their well-worn habits into new and interesting realms of self-improvement and experimentation. How fun! Some naysayers bemoan the practice of new year's resolutions, and their reasoning is sound. After all, if you really want to get better, why wait until a calendar date to begin that journey? Life is short; why not begin the process of being better now? I get it. But there is something about January 1st of a given year that serves as a helpful anchor, psychologically speaking, for a new habit, or walking a better path. If when early February comes, and you've kept your resolution--whatever it is--you can easily remember how long you've been doing *x*; since the beginning of the year! Along with that comes an easy motivator--you've gone *this* far on your quest, you've got *momentum*, so you can overcome whatever current struggle with which you find yourself engaged. Sure, maybe that is just a psychological misstep, and there is no *real* advantage to resolving to change as the year's number changes. But, even if that is the case, it seems to be embedded into our minds--perhaps into our collective consciousness, so why not leverage it to help become better?
 
 All that preamble is to say this: I have a resolution this year. Actually, I have a *few* resolutions this year, but there is one in particular that I would consider *public* in nature. I hereby resolve to do the following, as much as I am able, in 2016:
-<!---more--->
+<!--more-->
 
 >**Each week in 2016, I will be writing an analysis/interpretation of one of Eno and Schmidt's *Oblique Strategies*.**
 
