@@ -44,20 +44,18 @@
       {% if node.title != null %}
         {% if node.layout == "page" %}
           <li><a class="sidebar li{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+					<li><a href="/" title="Home">Home</a></li>
+					<!--<li><a href="/tags.html" title="Archives.">The Archives</a></li><li><script type="text/javascript">
+					</script></li>
+					<li><a href="/colophon.html" title="Ostensibly, answers to your questions about this site.">Colophon</a></li> -->
+					<br>
+					<li><small><b>Find me elsewhere:</b></small>
+					<li><a href="https://twitter.com/aperfectsturm">Twitter</a></li>
+					<li><a href="https://medium.com/@aperfectsturm">Medium</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}
 
-<ul><!--&#9733;-->
-<li><a href="/" title="Home">Home</a></li>
-<!--<li><a href="/tags.html" title="Archives.">The Archives</a></li><li><script type="text/javascript">
-</script></li>
-<li><a href="/colophon.html" title="Ostensibly, answers to your questions about this site.">Colophon</a></li> -->
-<br>
-<li><small><b>Find me elsewhere:</b></small>
-<li><a href="https://twitter.com/aperfectsturm">Twitter</a></li>
-<li><a href="https://medium.com/@aperfectsturm">Medium</a></li>
-</ul>
 
 </div> <!-- Sidebar -->
 
