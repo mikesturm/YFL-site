@@ -2,12 +2,13 @@
 layout: post
 title: Our Dangerous Obsession With Lifehacking
 subtitle:
-categories:[]
+categories: []
 tags: [lifehacking, productivity]
 description:
 comments: true
 published: true
 ---
+
 ![](/graphics/Fsocietyman.png)
 #####Image Credit: USA Network/Anonymous Content
 
