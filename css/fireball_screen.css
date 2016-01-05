@@ -97,6 +97,7 @@ sup {
 	}
 sup a:link {
 	padding: 3px;
+	 text-decoration: none ! important;
 	}
 sup a:visited {
 	padding: 3px;
@@ -536,11 +537,11 @@ and (max-device-width : 568px) {
 	border: 0;
 	}
 #Sidebar a:visited {
-	color: #B0B0B0;
+/*	color: #B0B0B0; */
 	border: 0;
 	}
 #Sidebar a:hover {
-	color: #fff;
+	color: #E5E5E5;
 	}
 
 
