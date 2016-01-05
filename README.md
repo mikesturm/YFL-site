@@ -1,12 +1,8 @@
-Minimal++ theme by Nick Groenen
+The Fool Laureate: A Website by Mike Sturm
 ===============================
 
-A responsive theme for websites, originally by [orderedlist](https://github.com/orderedlist). [Demo the theme](http://zoni.github.com/minimal-plus-plus/) right here on GitHub pages.
-
-Changes from minimal
---------------------
-
-Minimal++ uses [scss](http://sass-lang.com/) to make it a little easier to apply your own brand of awesomesauce to the theme, fixes a few quirks with minimal that were bugging the author, and includes an alternative dark theme in addition to the original dark on light theme.
+Code is based on that of John Gruber's [Daring Fireball](http://daringfireball.net) site, with formatting and style changes.
+The content is entirely my own.
 
 License
 -------

@@ -17,7 +17,7 @@ title: Home
 
 
     <div>
-      {% if post.fullview %}
+  <!--    {% if post.fullview %}
       {{ post.content }}
       {% else %}
       {% if post.shortinfo %}
@@ -27,10 +27,17 @@ title: Home
       {% else %}
       {{ post.excerpt }}
       {% endif %}
-      {% endif %}
+      {% endif %} -->
+
       {% if post.content | post_contains_excerpt_tag %}
-      <br>
+        {{ post.excerpt }}
+          {% elsif post.description %}
+        {{ post.description }}
+        {% endif %}
+        {% endif %}
+
   <a href="{{ post.url }}">Read more →</a>
+  <br>
   <br>
   <a href="#top">Back to top of page</a>
 {% endif %}
@@ -39,7 +46,7 @@ title: Home
   </div>
   {% endfor %}
 </div>
-
+<br>
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
