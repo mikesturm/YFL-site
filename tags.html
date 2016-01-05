@@ -12,7 +12,7 @@ title: The Archives
       {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
       <li>
           <a href="#{{ this_word | replace:' ','-' }}-ref" >
-            {{ this_word }} &nbsp; &nbsp; <span class="badge pull-right">{{ site.tags[this_word].size }}</span>
+            {{ this_word }} &nbsp; &nbsp; <span class="badge pull-right"><div id="quantity" style="border:0"{{ site.tags[this_word].size }}</span>
          </a>
       </li>
    {% endunless %}{% endfor %}
