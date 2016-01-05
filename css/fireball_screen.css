@@ -51,7 +51,7 @@ body {
 	/* background-color: #4a525a;  dark blue slate thing */
 	}
 /*Below was added by mike 1/4/16 */
-body   { font-size: 12px; }
+body   { font-size: 13px; }
 @media only screen and (max-device-width: 480px)  {
 	body { font-size: 17px; }
 }
@@ -82,7 +82,7 @@ a:visited {
 a:hover {
 	color: black;
 	text-decoration: underline;
-	/*  commented out by mike 1/4/16 
+	/*  commented out by mike 1/4/16
 	background-color: #606870;
 	border-color: #606870; */
 	}
@@ -140,7 +140,7 @@ h2 + h3 {
 h3 {
 	font-family: 'Raleway', sans-serif;
 	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
-	font-size: .91em;
+	font-size: .95em;
 	text-align: left;
 	font-weight: normal;
 	line-height: 1.8em;
