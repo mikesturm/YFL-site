@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Our Dangerous Obsession With Lifehacking
-subtitle: 
+subtitle:
 categories:[]
-tags[lifehacking, productivity]
+tags: [lifehacking, productivity]
 description:
-image: https://raw.githbusercontent.com/mikesturm/mikesturm.github.io/master/assets/Fsocietyman.png
 comments: true
 published: true
 ---
-
+![](/graphics/Fsocietyman.png)
 #####Image Credit: USA Network/Anonymous Content
 
 It’s rare that a word with a very negative connotation gets a second chance, but the term “hack” is a prime example of that rare occurrence. The word “hack” used to describe a person — ostensibly some sort of professional — who was terrible at what they did. In fact, a very telling definition, courtesy of Random House, reads as follows:
@@ -23,6 +22,7 @@ It’s rare that a word with a very negative connotation gets a second chance, b
 > A person, esp. a professional, who surrenders individual independence,
 > integrity, belief, etc., in return for money or other reward.
 
+<!--more-->
 Other definitions include an old, ill-bred horse, the activity of
 driving a taxi for money, or a writer who writes low-level drivel for
 money. None of them are positive.
@@ -160,7 +160,9 @@ If you managed to read this whole thing, congratulations and thank you.
 
 For those who prefer to skim for heading type, below is the takeaway:
 
-*Hacking is dangerous because we believe we are changing or bending the
+####In Short:
+
+Hacking is dangerous because we believe we are changing or bending the
 rules of reality, but we are not. Rather, in many cases, we are merely
 shifting around the effort we think we’re saving or settling for a lower
-quality outcome.*
+quality outcome.
