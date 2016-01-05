@@ -133,7 +133,7 @@ h2 {
 	}
 
 h1 + h2 {
-	margin-top: 2em;
+	margin-top: 1em;
 	}
 h2 + h3 {
 	margin-top: 1.5em;
@@ -1108,7 +1108,7 @@ dl + h2.post-date {
 
 /**** Linked List ********/
 .post + .post {
-	margin-top: 10em;
+	margin-top: 5em;
 	}
 /*
 .article + .linkedlist {
