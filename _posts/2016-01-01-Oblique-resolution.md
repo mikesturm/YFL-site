@@ -4,7 +4,7 @@ title: My Resolution for 2106 - Be Oblique
 subtitle:
 categories: []
 tags: [creativity, productivity, art]
-description: This year, my public commitment is to analyze and apply a set of old, oblique principles...on this very site.
+description:
 comments: true
 ---
 ![image courtesy of enoshop.co.uk](/graphics/obliques.jpg)
