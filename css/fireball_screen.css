@@ -471,7 +471,7 @@ and (max-device-width : 568px) {
 	width: 160px;
 	height: auto;
 	border-right: 1px dotted gray;
-	padding: 1px 0 0 0;
+	padding: 0 0 0 2px;
 	background-color: transparent;
 	color: #eee;
 	text-align: right;
