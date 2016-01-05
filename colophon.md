@@ -4,7 +4,7 @@ title: Colophon
 permalink: "colophon.html"
 ---
 
-![courtesy of Smithlifescience.com](graphics/ImaginaryCreature.GIF)
+![courtesy of Smithlifescience.com](/graphics/ImaginaryCreature.GIF)
 
 ##What This Is
 
