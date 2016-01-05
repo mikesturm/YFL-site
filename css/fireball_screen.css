@@ -350,7 +350,7 @@ and (max-device-width : 568px) {
 	height: auto;
 	border: 0px dotted #606870;
 	padding: 0;
-	margin: 59px 12px 69px 41px;
+	margin: 59px 12px 0px 41px;
 	text-align: left;
 	background-color: transparent;
 	line-height: 0px;
