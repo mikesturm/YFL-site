@@ -109,7 +109,7 @@ p {
 	}
 
 h1 {
-	font-family: "Gotham SSm A", "Gotham SSm B";
+	font-family: 'Raleway', sans-serif;
 	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Georgia, serif; */
 	font-size: 1.55em; /* was 1.46em for Georgia */
 	line-height: 1.5em;
@@ -119,7 +119,7 @@ h1 {
 	}
 
 h2 {
-	font-family: "Gotham SSm A", "Gotham SSm B";
+	font-family: 'Raleway', sans-serif;
 	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
 	font-size: 1.05em; /* 1 */
 	text-align: left;
@@ -138,7 +138,7 @@ h2 + h3 {
 	}
 
 h3 {
-	font-family: "Gotham SSm A", "Gotham SSm B";
+	font-family: 'Raleway', sans-serif;
 	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
 	font-size: .91em;
 	text-align: left;
@@ -164,7 +164,7 @@ h6 + h2 {
 
 
 h4, h5, h6 {
-	font-family: "Gotham A", "Gotham B";
+	font-family: 'Raleway', sans-serif;
 	/* font-family: Verdana, "Bitstream Vera Sans", sans-serif; */
 	font-size: 1em;
 	text-align: left;
@@ -290,7 +290,7 @@ legend {
 	}
 
 dt {
-	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
 	text-align: left;
 	font-weight: normal;
@@ -486,7 +486,9 @@ and (max-device-width : 568px) {
 	font-size: .91em;
 */
 	line-height: 1em;
-	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+	font-family: 'Raleway', sans-serif;
+	/* original from df site:
+	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
 	}
 
 
@@ -920,7 +922,9 @@ and (max-device-width : 568px) {
 .post-date a:hover { color: #fff; }
 h2.post-date {
 	margin: 2em 0 0 0;
-	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Georgia, serif;
+	/* original from df site:
+	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Georgia, serif; */
+	font-family: 'Raleway', sans-serif;
 	}
 dl + h2.post-date {
 	font-size: 0.9em;
@@ -971,7 +975,9 @@ dl + h2.post-date {
 	letter-spacing: .2em;
 	line-height: 1em;
 	text-transform: uppercase;
-	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+	/* original from df site:
+	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
+	font-family: 'Raleway', sans-serif;
 	}
 
 
