@@ -51,7 +51,7 @@ body {
 	/* background-color: #4a525a;  dark blue slate thing */
 	}
 /*Below was added by mike 1/4/16 */
-body   { font-size: 11px; }
+body   { font-size: 12px; }
 @media only screen and (max-device-width: 480px)  {
 	body { font-size: 17px; }
 }
@@ -81,9 +81,10 @@ a:visited {
 
 a:hover {
 	color: white;
-	text-decoration: none;
+	text-decoration: underline;
+	/*  commented out by mike 1/4/16 
 	background-color: #606870;
-	border-color: #606870;
+	border-color: #606870; */
 	}
 
 a em {
@@ -108,7 +109,8 @@ p {
 	}
 
 h1 {
-	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Georgia, serif;
+	font-family: "Gotham SSm A", "Gotham SSm B";
+	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Georgia, serif; */
 	font-size: 1.55em; /* was 1.46em for Georgia */
 	line-height: 1.5em;
 	text-align: left;
@@ -117,7 +119,8 @@ h1 {
 	}
 
 h2 {
-	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+	font-family: "Gotham SSm A", "Gotham SSm B";
+	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
 	font-size: 1.05em; /* 1 */
 	text-align: left;
 	font-weight: normal;
@@ -135,7 +138,8 @@ h2 + h3 {
 	}
 
 h3 {
-	font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif;
+	font-family: "Gotham SSm A", "Gotham SSm B";
+	/* font-family: "Gill Sans MT", "Gill Sans", "Gill Sans Std", Verdana, "Bitstream Vera Sans", sans-serif; */
 	font-size: .91em;
 	text-align: left;
 	font-weight: normal;
@@ -160,7 +164,8 @@ h6 + h2 {
 
 
 h4, h5, h6 {
-	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+	font-family: "Gotham A", "Gotham B";
+	/* font-family: Verdana, "Bitstream Vera Sans", sans-serif; */
 	font-size: 1em;
 	text-align: left;
 	font-weight: bold;
