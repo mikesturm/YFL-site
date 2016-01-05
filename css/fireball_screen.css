@@ -71,7 +71,7 @@ a:link {
 	}
 
 a:visited {
-	color: #B0B0B0;
+	 /*color: #B0B0B0; */
 	border-color: #aa8888;
 	border-width: 0 0 1px 0;
 	border-style: none none dotted none;
@@ -824,7 +824,7 @@ and (max-device-width : 568px) {
 }
 
 .post h1 a:visited {
-	color: #9f9f9f;
+	/* color: #9f9f9f; */
 	}
 .post img {
 	border: 0px solid #ccc; /* 7 Jan 2011 */
@@ -883,7 +883,7 @@ and (max-device-width : 568px) {
 	text-decoration: underline;
 }
 .smallprint a:visited {
-	color: #ddd;
+	/*color: #ddd; */
 	}
 
 .timestamp {
@@ -1138,7 +1138,7 @@ dl + h2.post-date {
 	border-color: #72767A;
 	}
 .linkedlist dt a:hover {
-	color: white;
+	text-decoration: underline;
 	}
 .linkedlist dd {
 	margin: auto auto 5em 0em;
