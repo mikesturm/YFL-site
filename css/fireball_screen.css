@@ -80,7 +80,7 @@ a:visited {
 	}
 
 a:hover {
-	color: white;
+	color: black;
 	text-decoration: underline;
 	/*  commented out by mike 1/4/16 
 	background-color: #606870;
@@ -815,10 +815,13 @@ and (max-device-width : 568px) {
 	}
 
 .post h1 a {
-	color: #5F5F5F;
+	color: #333333;
 	text-decoration: none;
 	border: 0;
 	}
+.post h1 a:hover{
+	text-decoration: underline;
+}
 
 .post h1 a:visited {
 	color: #9f9f9f;
@@ -860,6 +863,9 @@ and (max-device-width : 568px) {
 	text-decoration: none;
 	border-style: none;
 	}
+.archive a:hover {
+	text-decoration: underline;
+}
 
 .headline_list {
 	}
@@ -873,6 +879,9 @@ and (max-device-width : 568px) {
 .smallprint a:link {
 	color: #ddd;
 	}
+.smallprint a:hover {
+	text-decoration: underline;
+}
 .smallprint a:visited {
 	color: #ddd;
 	}
