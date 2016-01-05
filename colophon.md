@@ -4,7 +4,7 @@ title: Colophon
 permalink: "colophon.html"
 ---
 
-![courtesy of Smithlifescience.com](https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/ImaginaryCreature.GIF)
+![courtesy of Smithlifescience.com]({{ site.baseurl }}/graphics/ImaginaryCreature.GIF)
 
 ##What This Is
 
@@ -12,18 +12,18 @@ The name of this site is sardonic, and intended to convey that I do not propose 
 
 ##How It's Made
 
-This site is made using [Jekyll](jekyllrb.com) and hosted through [Github Pages](https://pages.github.com/).
-The site's format is adopted from the code for John Gruber's [website](daringfireball.net), which was done for two reasons:
+This site is made using [Jekyll](http://jekyllrb.com) and hosted through [Github Pages](https://pages.github.com/).
+The site's format is adopted from the code for John Gruber's [website](http://daringfireball.net), which was done for two reasons:
 
 1. The site has exactly the aesthetic and standards-compliance that I value.
 2. I know very little about web development.
 
-The posts are written using a [derivative of markdown](kramdown.gettalong.org/), and written in plain text, using one of the following tools:
+The posts are written using a [derivative of markdown](http://kramdown.gettalong.org/), and written in plain text, using one of the following tools:
 
-- [nvAlt](brettterpstra.com/projects/nvalt/)
-- [ResophNotes](www.resoph.com/ResophNotes/Welcome.html)
-- [Simplenote](simplenote.com/)
-- [editorial](omz-software.com/editorial/)
+- [nvAlt](http://brettterpstra.com/projects/nvalt/)
+- [ResophNotes](http://www.resoph.com/ResophNotes/Welcome.html)
+- [Simplenote](http://simplenote.com/)
+- [editorial](http://omz-software.com/editorial/)
 - [Sublime Text](http://www.sublimetext.com/)
 - [Atom](https://atom.io/)[^1]
 

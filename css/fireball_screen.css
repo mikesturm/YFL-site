@@ -94,11 +94,11 @@ a em {
 
 sup {
 	line-height: 0px;
-	text-decoration: none ! important;
+	border-style: none !important;
 	}
 sup a:link {
 	padding: 3px;
-	 text-decoration: none ! important;
+	 border-style: none !important;
 	}
 sup a:visited {
 	padding: 3px;
