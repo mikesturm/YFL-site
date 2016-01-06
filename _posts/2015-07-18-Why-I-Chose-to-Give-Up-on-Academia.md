@@ -5,16 +5,15 @@ subtitle: And Why it’s probably the best decision I’ll ever make.
 categories: []
 tags: [education, academia, philosophy]
 description:
-excerpt_separator: <!--more-->
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/academic.jpg
 comments: true
 ---
 
-Anyone who has been through the process of applying to PhD programs can attest to the fact that so much of the process makes you question everything about yourself. You start questioning your intelligence, your credentials, your love for the subject you’re applying to study, your employability once you get your doctorate (_if_ you get your doctorate), and so on. The process is exhausting. Once you send off your last application, you leave your fate in the hands of the gods (here, that is the admission committees at the various departments at which you applied).
+![](/graphics/academic.jpg)
 
-In late December of last year, I submitted applications to philosophy programs under pretty unusual circumstances. I am nearly a decade older than most people going into PhD programs. I have a wife and a 1 year-old child. I have a job that pays decently, and has opportunity for advancement, insurance and a 401(k). I have, by all accounts, economic security. And yet, I was perfectly willing to give that all up in order to chase the dream of a tenured position as an academic philosopher. I applied to quite a few schools, and spent the next few months agonizing over my inbox. I ended up receiving 3 offers with full funding — one of them from a [Philosophical Gourmet][1] top 50 program.
+Anyone who has been through the process of applying to PhD programs can attest to the fact that so much of the process makes you question everything about yourself. You start questioning your intelligence, your credentials, your love for the subject you’re applying to study, your employability once you get your doctorate (if you get your doctorate), and so on. The process is exhausting. Once you send off your last application, you leave your fate in the hands of the gods (here, that is the admission committees at the various departments at which you applied).
 
-   [1]: http://www.philosophicalgourmet.com/overall.asp
+In late December of last year, I submitted applications to philosophy programs under pretty unusual circumstances. I am nearly a decade older than most people going into PhD programs. I have a wife and a 1 year-old child. I have a job that pays decently, and has opportunity for advancement, insurance and a 401(k). I have, by all accounts, economic security. And yet, I was perfectly willing to give that all up in order to chase the dream of a tenured position as an academic philosopher. I applied to quite a few schools, and spent the next few months agonizing over my inbox. I ended up receiving 3 offers with full funding — one of them from a [Philosophical Gourmet](http://www.philosophicalgourmet.com/overall.asp) top 50 program.
 
 I turned them all down.
 
@@ -40,24 +39,24 @@ I’m also not sure that they have the energy to go to bat for most other PhDs, 
 
 The academy will likely never provide me with security; the only thing it could ever promise me is an outlet for creative and innovative thinking and writing, as well as the ability to talk to others about those innovative and creative thoughts.
 
-I already have job security, at the non-academic job I’ve had for the past 5 years. I am already in a position where I seem to have a bright future, and some of my ideas matter. I have opportunities to come up with innovative and creative ideas, and I can talk about them with people who care about them. I can’t throw that away and face a very daunting, impoverished immediate future just because it’s not _exactly_ what I had dreamed of, in the _exact _environment that I dreamed about. At best it would be selfish, and at worst, it would be foolish and shortsighted (whether I had a family or not). It took fatherhood to help me realize that, but I’m glad I have now, rather than 6 years from now, when I have a PhD, but I’m struggling to make ends meet for my family, and I struggle to get anything published and recognized.
+I already have job security, at the non-academic job I’ve had for the past 5 years. I am already in a position where I seem to have a bright future, and some of my ideas matter. I have opportunities to come up with innovative and creative ideas, and I can talk about them with people who care about them. I can’t throw that away and face a very daunting, impoverished immediate future just because it’s not exactly what I had dreamed of, in the exact environment that I dreamed about. At best it would be selfish, and at worst, it would be foolish and shortsighted (whether I had a family or not). It took fatherhood to help me realize that, but I’m glad I have now, rather than 6 years from now, when I have a PhD, but I’m struggling to make ends meet for my family, and I struggle to get anything published and recognized.
 
 ### My Advice
 
-As a mentor of mine in academia said, philosophy is in my DNA, so I’ll always be doing it in some way. I am positive that that is true, and what is more, I see no reason why I must be pigeon-holed by an increasingly exclusive academy in order to pursue wisdom in earnest. Sure, my time may be divided (with the partition devoted to philosophy being quite slim), and I may never publish prolifically and be the next [John Rawls][2]. But I can certainly continue my earnest pursuit of wisdom, and it _most _certainly can be done outside of the academy.
+As a mentor of mine in academia said, philosophy is in my DNA, so I’ll always be doing it in some way. I am positive that that is true, and what is more, I see no reason why I must be pigeon-holed by an increasingly exclusive academy in order to pursue wisdom in earnest. Sure, my time may be divided (with the partition devoted to philosophy being quite slim), and I may never publish prolifically and be the next [John Rawls][2]. But I can certainly continue my earnest pursuit of wisdom, and it most certainly can be done outside of the academy.
 
-   [2]: http://en.wikipedia.org/wiki/John_Rawls
+   [2]: http://en.wikipedia.org/wiki/JohnRawls
 
 What’s more, I can garner an audience of similarly-minded people, who can give me feedback, and collaborate. Technology has made this easier than it has ever been, and I intend to leverage that technology against the ever-disappearing opportunities in academia.
 
-When i declined the offers I received, I felt a small sense of loss, to be sure. But people lose things all the time. If one is fortunate enough to be able to _choose_ what they will lose, as a sacrificial step toward an immediate _better_ life for them and their family, well that is good fortune indeed. Very few losses are of that kind.
+When i declined the offers I received, I felt a small sense of loss, to be sure. But people lose things all the time. If one is fortunate enough to be able to choose what they will lose, as a sacrificial step toward an immediate better life for them and their family, well that is good fortune indeed. Very few losses are of that kind.
 
 My advice to those looking to throw themselves headlong into the academy is to ask yourself two questions:
 
   1. Am I willing to live on $25,000 per year for the next 20 years of my life, and have only year-to-year contract gigs at small colleges?
-  2. Is there _no_ other way I could ever be doing all the things I love and making a living _other_ than having a PhD and teaching?
+  2. Is there no other way I could ever be doing all the things I love and making a living other than having a PhD and teaching?
 
-I don’t believe the answer to that second question can ever really be “no”. Because of that, I would advise that those not in the STEM fields look outside the academy — as much as is possible — to find work about which they can be passionate _and_ *gasp* that they can make some money doing.
+I don’t believe the answer to that second question can ever really be “no”. Because of that, I would advise that those not in the STEM fields look outside the academy — as much as is possible — to find work about which they can be passionate and *gasp* that they can make some money doing.
 
 I have probably come across as a bit jaded, and perhaps I am, but please don’t misunderstand my message. I don’t mean to discourage those who wish to study for a living. To do that is a very noble and worthwhile pursuit, and society needs scholars — it always will, whether it wants to admit it or not. It will just simply continue to lose respect from most people outside of academia unless it can be direclty traced to creating some successful commodity or commoditized service. Accept that, and be prepared to face it head-on.
 
