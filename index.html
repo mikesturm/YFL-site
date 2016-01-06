@@ -29,7 +29,7 @@ title: Home
       {{ post.excerpt }}
       {% endif %}
       {% endif %} 
-  {% endcomment %}
+  
 
       {% if post.content | post_contains_excerpt_tag %}
         {{ post.excerpt }}
@@ -40,6 +40,20 @@ title: Home
         {% else %}
         {{ post.fullview }}
         {% endif %}
+{% endcomment %}
+
+
+    {{ post.excerpt }} 
+    {% capture content_words %} 
+      {{ post.content | number_of_words }} 
+    {% endcapture %} 
+    {% capture excerpt_words %} 
+      {{ post.excerpt | number_of_words }} 
+    {% endcapture %} 
+    {% if excerpt_words != content_words %}
+    <p><a href="{{ post.url }}/#read-more">Read more →"></a>
+    </p>
+    {% endif %}
 
   <br>
   <a href="#top">Back to top of page</a>
