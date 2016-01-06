@@ -5,7 +5,6 @@ subtitle: The Importance of Finding and Using the Right Tools for Your Work
 categories: []
 tags: [productivity, markdown, plain text]
 description:
-image: https://mikesturm.github.io/assets/leaf.jpg
 publish: true
 comments: true
 ---

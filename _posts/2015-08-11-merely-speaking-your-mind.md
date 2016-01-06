@@ -1,13 +1,14 @@
 ---
 layout: post
 title: There is No Virtue in Merely Speaking Your Mind
-subtitle: 
+subtitle:
 categories: []
 tags: []
 description: Yes, this is kind of about Donald Trump. But it's also about many, many different people.
 comments: true
 published: true
 ---
+![Yes, this is kind of about him](/grahpics/theDonald.jpg)
 
 
 There is a refrain that I’ve heard time and again, in various contexts, and about various people. It is a refrain that grates against the grey matter of my brain each time I hear it uttered. It goes something like this:
@@ -20,7 +21,9 @@ Another variation, which is a bit more dastardly
 
 Against both of these general refrains, I call the strongest of fouls. There is no virtue in merely speaking your mind. There is also no virtue in saying things that no one else “has the guts” to say.
 
-In fact, the more you’re speaking, the less you’re probably *thinking*. As the old adage goes: (s)he who speaks the most often *says* the least! And those pungent farts of thoughtless anti-wisdom that you choose to belt out are probably not being said by others for a reason: they stink. It’s not that others don’t have the guts, it’s that they have the restraint to consider whether what they’re thinking is utter bulls#!@*.
+In fact, the more you’re speaking, the less you’re probably *thinking*. As the old adage goes: (s)he who speaks the most often *says* the least! And those pungent farts of thoughtless anti-wisdom that you choose to belt out are probably not being said by others for a reason: they stink. It’s not that others don’t have the guts, it’s that they have the restraint to consider whether what they’re thinking is utter bulls#!@%.
+
+<!--more-->
 
 This point is of particular relevance now, given the current Republican Party primary in the U.S., leading up to next year’s presidential election. I won’t name names, but savvy readers (0r those who looked at the title picture) will get my drift. There is a candidate whose entire platform seems to be that he says whatever’s on his mind, and often those are things that others are afraid to say. Well, there is a reason why others are afraid to say them: because they’re thoughtless drivel! Quasi-racist, culturally ignorant, misogynisitc aphorisms are of no value, and that’s why others in the public eye don’t say them. It’s not that they don’t have the guts, it’s that they don’t wish to say stupid s#!@ in public.
 

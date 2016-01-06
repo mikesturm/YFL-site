@@ -1,19 +1,18 @@
 ---
 layout: post
 title: So You Want to Be Self-Made
-subtitle: 
+subtitle:
 categories: []
 tags: [entrepreneurship, business, help]
-description: 
+description:
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/moneybags.jpg
 comments: true
 published: true
 ---
-
-
+![moneybags](/graphics/moneybags.jpg)
 
 So you want to go around touting yourself as a self-made millionaire, or whatever sobriquet you’d like to adorn yourself with, here’s a checklist of things you must do beforehand. Once these are complete, self-aggrandize to your heart’s content!
-
+<!--more-->
 1. Check with your parents, guardians, good friends, family members, teachers, and others who helped you during your education. Ask them for permission to omit their role in your upbringing from your narrative.
 2. Get with the first person who hired you at the job that provided your entree into your current role. Make sure that no one else was even being _considered_ for the job, so you can make sure that the person hiring didn’t help you out by deciding to give you a shot.
 3. Have lunch with any mentor you had during your professional life. Tell them that you are planning on promoting yourself by purposely not mentioning the advice and networking they provided to you. Ensure that they are okay with this, and try to get that in writing, if you can. Also, make sure you pay for said lunch, along with reimbursing them for any lunches they had previously paid for during your relationship.

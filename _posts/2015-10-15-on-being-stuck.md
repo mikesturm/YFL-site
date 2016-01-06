@@ -8,8 +8,7 @@ description:
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/Quixote.jpg
 comments: true
 ---
-
-
+![](/graphics/Quixote.jpg)
 
 Creative types and knowledge workers will no doubt have experience with the term “stuck”. They will also likely shudder at its mere mention, or at seeing it in print. Negative connotations abound for this term, and it’s no wonder; it often represents the onset of severe stress and torment. When you’re stuck, you get frustrated, angry — things don’t get done; it is just plain bad.
 <!--more-->

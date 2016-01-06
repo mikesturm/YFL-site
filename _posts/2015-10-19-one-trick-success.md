@@ -5,7 +5,6 @@ subtitle: Stop Thinking There's One Simple Trick
 categories: []
 tags: [productivity, business, success]
 description: 
-image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/key.jpg
 comments: true
 published: true
 ---
@@ -14,7 +13,7 @@ Succeeding at something great is difficult, and often complicated. If it weren�
 
 Just think of it this way: if success is really the result of one simple trick, that must mean that everyone else is either too stupid to read articles like the those, or too lazy to follow the “simple trick”. That seems a bit far-fetched, doesn’t it?
 
-So here’s the simple trick you’ve been looking for to guarantee success: 
+So here’s the simple trick you’ve been looking for to guarantee success:
 <!--more-->
 understand there is no one simple trick. There is no hack, there is no thing that Steve Jobs, Elon Musk, Jeff Bezos, and {insert name of eccentric entrepreneurial idol here} all did to gain success and fame. Once you begin to understand and accept that, perhaps you can get moving.
 
@@ -26,7 +25,7 @@ The fact is, each person has a different path to prosperity. The paths vary in c
 
 I don’t know, you tell me.
 
-Who made you think that you have to be the next Steve Jobs to succeed? Probably Walter Isaacson. Allow me to blow your mind. You define what it means to succeed. This is unequivocally true because success is by definition to acheive some goal. A goal is something that is set or accepted by you. Therefore, you decide what it means to succeed. If you have set impossibly high goals, fail to acheive them, and are a miserable as a result, consider adjusting your goal, at least for now. If the goal was set externally by someone else, and your failure to achieve it keeps you up at night, you’re not off the hook — _you_ accepted and internalized that goal. You can just as easily renegotiate that goal — if you are willing to work at that.
+Who made you think that you have to be the next Steve Jobs to succeed? Probably Walter Isaacson. Allow me to blow your mind. You define what it means to succeed. This is unequivocally true because success is by definition to acheive some goal. A goal is something that is set or accepted by you. Therefore, you decide what it means to succeed. If you have set impossibly high goals, fail to achieve them, and are a miserable as a result, consider adjusting your goal, at least for now. If the goal was set externally by someone else, and your failure to achieve it keeps you up at night, you’re not off the hook — _you_ accepted and internalized that goal. You can just as easily renegotiate that goal — if you are willing to work at that.
 
 ### Just Keep at It
 
@@ -36,4 +35,3 @@ Other than the “one trick” I provided above, you can employ one other “hac
 2. You will also enjoy the work of picking up the pieces after failing, and trying all over again.
 
 That, folks, is called future-proofing your goals. So if you’re attempting to begin a startup, only to sell it and move to the Bahamas and lounge in your hammock, at least make the company one you’d enjoy running even if it failed. The Hammock is not where the joy comes from, the work is.
-
