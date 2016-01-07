@@ -822,6 +822,7 @@ and (max-device-width : 568px) {
 	border-color: gray;
 	color: #5F5F5F;
 	font-size: 14px;
+        line-height: 1.4em;
 	}
 
 .post h1 a {
