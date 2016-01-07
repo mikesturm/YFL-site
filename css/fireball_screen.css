@@ -454,7 +454,7 @@ and (max-device-width : 568px) {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-top: 0px;
-	width: 425px;
+	width: 440px;
 	}
 
 #MainFullWidth {
@@ -821,6 +821,7 @@ and (max-device-width : 568px) {
 	border-style: dotted;
 	border-color: gray;
 	color: #5F5F5F;
+	font-size: 14px;
 	}
 
 .post h1 a {
