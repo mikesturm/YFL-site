@@ -15,13 +15,14 @@ The year has ended--2015, that is--and thus begins the mass (if short-lived) mig
 All that preamble is to say this: I have a resolution this year. Actually, I have a *few* resolutions this year, but there is one in particular that I would consider *public* in nature. I hereby resolve to do the following, as much as I am able, in 2016:
 <!--more-->
 
->**Each week in 2016, I will be writing an analysis/interpretation of one of Eno and Schmidt's *Oblique Strategies*.**
+*Each week in 2016, I will be writing an analysis/interpretation of one of Eno and Schmidt's *Oblique Strategies*.*
+{: style="text-align: center;"}
 
 ##What are These Things, Now?
 
 Great question.
 
-The *Oblique Strategies* were created in 1975 by Brian Eno and Peter Schmidt. Some very useful writing about them and their storied past can be found [here](http://www.rtqe.net/ObliqueStrategies/OSintro.html). The giat of the project, though, is this (straight from one of the men himself):
+The *Oblique Strategies* were created in 1975 by Brian Eno and Peter Schmidt. Some very useful writing about them and their storied past can be found [here](http://www.rtqe.net/ObliqueStrategies/OSintro.html). The gist of the project, though, is this (straight from one of the men himself):
 
 >"These cards evolved from our separate working procedures. It was one of the many cases during the friendship that he [Peter Schmidt] and I where we arrived at a working position at almost exactly the same time and almost in exactly the same words. There were times when we hadn't seen each other for a few months at a time sometimes, and upon remeeting or exchanging letters, we would find that we were in the same intellectual position - which was quite different from the one we'd been in prior to that.
 >
@@ -55,7 +56,7 @@ I hope that each week, when I look at these strategies, and when people read my 
 Thanks for reading.
 
 
-
+---
 
 
 [^1]: Brian Eno, interview with Charles Amirkhanian, KPFA-FM Berkeley, 2/1/80
