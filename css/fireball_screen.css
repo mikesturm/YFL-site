@@ -820,8 +820,8 @@ and (max-device-width : 568px) {
 	border-width: 0;
 	border-style: dotted;
 	border-color: gray;
-	color: #5F5F5F;
-	font-size: 14px;
+	color: #3a3a3a;
+	font-size: 16px;
         line-height: 1.4em;
 	}
 
