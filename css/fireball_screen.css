@@ -50,8 +50,8 @@ body {
 	min-width: 760px;
 	/* background-color: #4a525a;  dark blue slate thing */
 	}
-/*Below was added by mike 1/4/16 */
-body   { font-size: 13px; }
+/*Below was added by mike 1/4/16 
+body   { font-size: 13px; } */
 @media only screen and (max-device-width: 480px)  {
 	body { font-size: 17px; }
 }
