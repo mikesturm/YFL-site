@@ -53,7 +53,7 @@ body {
 /*Below was added by mike 1/4/16
 body   { font-size: 13px; } */
 @media only screen and (max-device-width: 480px)  {
-	body { font-size: 17px; }
+	body { font-size: 1rem; }
 }
 /*end what was added by mike 1/4/16 */
 a {
@@ -824,12 +824,12 @@ and (max-device-width : 568px) {
 }
 @media only screen and (max-device-width: 480px)  {
 	body { font-size: 17px; }
-	.post {font-size: 17px; }
+	.post {font-size: 1rem; }
 	}
 
 	@media only screen and (max-device-width : 667px)
 { body { font-size: 17px; }
-	.post {font-size: 17px; }
+	.post {font-size: 1rem; }
 }
 
 .post h1 a {
