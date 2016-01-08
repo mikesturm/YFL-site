@@ -44,7 +44,7 @@ body {
 	font-family: "Gotham A", "Gotham B";
 	/* original font below
 	font-family: Verdana, "Bitstream Vera Sans", sans-serif; */
-	line-height: 1.8em;
+	line-height: 1.6em;
 	color: #262626;
 	text-align: left;
 	min-width: 760px;
@@ -489,9 +489,7 @@ and (max-device-width : 568px) {
 	background-color: transparent;
 	color: #818181;
 	text-align: right;
-/*
-	font-size: .91em;
-*/
+	font-size: .85em;
 	line-height: 1em;
 	font-family: 'Raleway', sans-serif;
 	/* original from df site:
@@ -828,6 +826,11 @@ and (max-device-width : 568px) {
 	body { font-size: 17px; }
 	.post {font-size: 17px; }
 	}
+
+	@media only screen and (max-device-width : 667px)
+{ body { font-size: 17px; }
+	.post {font-size: 17px; }
+}
 
 .post h1 a {
 	color: #333333;
