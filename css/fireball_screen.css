@@ -38,7 +38,7 @@ blockquote strong {
 	}
 
 body {
-	-webkit-text-size-adjust: auto; /*was originally none (mike) */
+	-webkit-text-size-adjust: none; /*was originally none (mike) */
 	margin-top: 0;
 	padding: 0;
 	font-family: "Gotham A", "Gotham B";
