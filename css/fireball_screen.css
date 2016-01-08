@@ -50,8 +50,8 @@ body {
 	min-width: 760px;
 	/* background-color: #4a525a;  dark blue slate thing */
 	}
-/*Below was added by mike 1/4/16 */
-body   { font-size: 13px; }
+/*Below was added by mike 1/4/16
+body   { font-size: 13px; } */
 @media only screen and (max-device-width: 480px)  {
 	body { font-size: 17px; }
 }
@@ -823,9 +823,10 @@ and (max-device-width : 568px) {
 	color: #3a3a3a;
 	font-size: 16px;
         line-height: 1.4em;
-
+}
 @media only screen and (max-device-width: 480px)  {
 	body { font-size: 17px; }
+	.post {font-size: 17px; }
 	}
 
 .post h1 a {
