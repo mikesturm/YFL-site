@@ -823,6 +823,9 @@ and (max-device-width : 568px) {
 	color: #3a3a3a;
 	font-size: 16px;
         line-height: 1.4em;
+
+@media only screen and (max-device-width: 480px)  {
+	body { font-size: 17px; }
 	}
 
 .post h1 a {
