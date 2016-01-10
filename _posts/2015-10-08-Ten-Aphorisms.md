@@ -5,7 +5,6 @@ subtitle:  Because the Internet Loves Lists and I’m Lazy
 categories: []
 tags: [advice, aphorisms]
 description:
-img:
 comments: true
 ---
 ![](/graphics/Fortune_cookie.jpg)
