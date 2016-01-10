@@ -6,8 +6,8 @@ tags: blog, oblique strategies, creativity
 published: true
 ---
 
-*This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets them. For background on the series and the strategies, please read this.*
-  
+*This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets them. For background on the series and the strategies, please read this [this]({% post_url 2016-01-01-Oblique-resolution %}).*
+
 ----------------
 
 So here it is, week 1 of my deep dive into Eno and Schmidt's *Oblique Strategies*, and boy was this first pick a *doozy*.
