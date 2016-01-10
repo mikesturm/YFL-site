@@ -12,7 +12,7 @@ published: true
 ![](/graphics/Fsocietyman.png)
 ####Image Credit: USA Network/Anonymous Content
 
-It’s rare that a word with a very negative connotation gets a second chance, but the term “hack” is a prime example of that rare occurrence. The word “hack” used to describe a person — ostensibly some sort of professional — who was terrible at what they did. In fact, a very telling definition, courtesy of Random House, reads as follows:
+It’s rare that a word with a very negative connotation gets a second chance, but the term “hack” is a prime example of that rare occurrence. The word “hack” used to describe a person---ostensibly some sort of professional---who was terrible at what they did. In fact, a very telling definition, courtesy of Random House, reads as follows:
 
  **hack**
 
@@ -31,10 +31,10 @@ money. None of them are positive.
 Even the the verb definitions sound negative:
 
 > *v.i.*
-
-> **1.**to make rough cuts or notches.
-
-> **2.**to cough harshly, usually in short and repeated spasms.
+>
+> **1.** to make rough cuts or notches.
+>
+> **2.** to cough harshly, usually in short and repeated spasms.
 
 Rough cuts? Harsh coughs? Spasms? Not sounding desirable. And yet, the
 term “hack” is now enshrined in positive associations. And yet now,
@@ -50,10 +50,10 @@ about them, and their supposed glory.
 But I am skeptical.
 
 I used to be a wholehearted supporter of hacks, especially
-“lifehacks” — those little tricks that promise huge returns for even
+“lifehacks”---those little tricks that promise huge returns for even
 *less* work. I longed for more and more neat little shortcuts to do
 more, get more, be more. Alas, I am coming to find that these tricks are
-just that — tricks, as in they *trick* you into thinking something that
+just that---tricks, as in they *trick* you into thinking something that
 is not true. They trick you into thinking that you somehow exploited a
 loophole in the universe, and jumped ahead to the front of the line,
 without having to wait like everyone else. Unfortunately, this is not
@@ -68,8 +68,8 @@ only hacked your perception of it. You have only hacked yourself.
 To be more specific, in using a “hack”, you’ve only really done one of
 two things. You either:
 
-1.  Renegotiated or eliminated the commitment to — or desire for — a
-    result, putting in its place some other — usually more
+1.  Renegotiated or eliminated the commitment to---or desire for---a
+    result, putting in its place some other---usually more
     quickly/easily achieved result.
 2.  *Acting*as if effort or cost has been cut out, when it has actually
     been deferred or shifted elsewhere.
@@ -78,7 +78,7 @@ In either case, you have not figured out a shorter distance than a
 straight line between A and B ; you have NOT changed the terrain.
 Rather, you have changed your *perception*of the terrain—you have either
 *found*the straight line between A and B where others were previously
-taking a zig-zagging path — or you have realized that though you and
+taking a zig-zagging path---or you have realized that though you and
 most others thought that B was the desired destination point, it’s
 actually some less distant point,C, which is easier to reach.
 
@@ -90,7 +90,7 @@ obsession with it may in fact already be putting us in danger.
 You see, the more we continue to measure the success of people,
 products, and businesses by how much they hack, innovate, and disrupt,
 the more we may just be working toward the wrong goals. In
-addition — and perhaps more dangerously — I think we run the very real
+addition---and perhaps more dangerously---I think we run the very real
 risk of eliminating our capacity for patiently and slowly doing good
 work. That being the case, I am scared that we may also be running the
 risk of coming to value very few of the things we create.
@@ -98,7 +98,7 @@ risk of coming to value very few of the things we create.
 It’s a simple thing, really: you expend 1/2 the amount of time and
 energy on something, you’re bound to care about 1/2 as much about it.
 It’s not necessarily a law, but I challenge you to look at examples of
-it in your life — they’re there, if you pay attention. Sure, how much
+it in your life---they’re there, if you pay attention. Sure, how much
 you value something is heavily a function of how useful it is, but just
 think of this: the constant innovation and hacking we do makes the
 usefulness of products and services go obsolete at a much faster rate. I
@@ -106,22 +106,22 @@ valued my Samsung Blackjack at one time; I wouldn’t even use it as a
 doorstop now.
 
 Value concerns aside, hacks and workarounds are dangerous
-because — quite simply — you can’t fool the universe. You *will*expend
-the necessary effort, one way or another — at one *time* or another.
+because---quite simply---you can’t fool the universe. You *will*expend
+the necessary effort, one way or another---at one *time* or another.
 Maybe not even you, but the effort will be expended by someone,
 somewhere down the line.
 
 Case in point:
 
 1.  **The Sweet Tooth Hack:** You can’t fool your body with artificial
-    sweeteners — you will crave sweets after your Diet Coke, and expend
+    sweeteners---you will crave sweets after your Diet Coke, and expend
     that much more energy restraining yourself form tearing into that
     chocolate cake once you’ve guzzled your diet beverage.
 2.  **The Cheapskate Hack**: You can’t fool the IRS with elaborate
-    loopholes and tax shelters — without making way more work for
+    loopholes and tax shelters---without making way more work for
     yourself, and an immense psychological burden.
 3.  **The Fidelity Hack**: You can’t fool someone close to you by trying
-    to hide the truth and sneak around behind their back — without
+    to hide the truth and sneak around behind their back---without
     spending just as much effort as would have been spent if you were to
     be upfront and tell the truth.
 
@@ -130,14 +130,14 @@ of work that must be done for each objective one has. There are
 inefficient ways to do things, for sure. There are also efficient ways
 to do things, up to a point. Past that, there are ways to complete an
 objective which do get one the desired objective with what seems like
-less work. That work, however, goes somewhere else — either to some*one*
+less work. That work, however, goes somewhere else---either to some*one*
 else or to some*time* other than now.
 
 I fear that now, perhaps we are taking on that extra effort that we
 thought we were circumventing as we hacked and innovated away, and that
 it will someday become too much for us to bear. Take for example the
 financial crisis that came to a head in 2007 and 2008. Draw up whatever
-narrative you like of the whole thing — who were the heroes, the
+narrative you like of the whole thing---who were the heroes, the
 villains, the victims, etc. One thing will have to be present in any
 account of the crisis: it would not have happened as it did without the
 financial “innovations” and “hacks” known as credit default swaps and

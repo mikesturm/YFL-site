@@ -3,7 +3,7 @@ layout: post
 title: There is No Virtue in Merely Speaking Your Mind
 subtitle:
 categories: []
-tags: []
+tags: [restraint, communication]
 description: Yes, this is kind of about Donald Trump. But it's also about many, many different people.
 comments: true
 published: true
@@ -31,6 +31,6 @@ To sum up. The next time someone tells you that they appreciate the office buffo
 
 > All it means is that they don’t think before they speak, and if they do, they don’t bother to ask whether they know what they’re talking about. I fail to see how that is at all a positive trait.
 
-That’s not to say that we all don’t trip up and speak out of turn here and there; we do, and that’s fine. However, for one’s main appeal to that they just spout off without thinking, well that’s just unfortunate for them — perhaps more unfortunate for those who admire it.
+That’s not to say that we all don’t trip up and speak out of turn here and there; we do, and that’s fine. However, for one’s main appeal to that they just spout off without thinking, well that’s just unfortunate for them---perhaps more unfortunate for those who admire it.
 
-Think about what you’re going to say, as much as you can. The more people you know will hear it, the more you ought to think about it. And if someone tries to tell you that some public figure is admirable because they “speak their mind,” just remind them — if you’re feeling particularly cynical — “so did Hitler.”
+Think about what you’re going to say, as much as you can. The more people you know will hear it, the more you ought to think about it. And if someone tries to tell you that some public figure is admirable because they “speak their mind,” just remind them---if you’re feeling particularly cynical---“so did Hitler.”
