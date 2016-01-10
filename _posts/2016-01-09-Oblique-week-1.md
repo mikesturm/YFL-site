@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oblique, Week by Week&#58; Week 1
-subtitle: "Change Nothing, and Continue With Immaculate Consistency."
+subtitle: Change Nothing, and Continue With Immaculate Consistency.
 date: 2016-01-08 11:12:15
 categories: [Oblique Strategies]
 tags: blog, oblique strategies, creativity
