@@ -4,9 +4,10 @@ title: Oblique, Week by Week&#58; Week 1
 subtitle: Change Nothing, and Continue With Immaculate Consistency
 tags: blog, oblique strategies, creativity
 published: true
+comments: true
 ---
 
-*This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets them. For background on the series and the strategies, please read this [this]({% post_url 2016-01-01-Oblique-resolution %}).*
+*This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets them. For background on the series and the strategies, please read [the series introduction]({% post_url 2016-01-01-Oblique-resolution %}).*
 
 ----------------
 
