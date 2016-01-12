@@ -58,7 +58,7 @@ Number 3 was my “in”. The advice didn’t need to be good, just *interesting
 The point is, getting the students to unknowingly do the work of the humanities in very rough terminology — but *their* terminology — allows for an easy inroad. Once that inroad is made, some sales can be made. Once that sale is made, students can make the sale to their parents, their communities, and the pundits who set the tone of the discussion about education in America. That’s how the humanities can survive and thrive in the new market paradigm.
 
 
-`&homtht;`
+<p>&homtht;</p>
 {: style="text-align: center;"}
 
 *I gave this presentation on Friday afternoon, not long after a luncheon. I was very pleased with the reactions the talk received. There was some anxiety, to be sure, that things have gone this way. But there seemed to be some agreement among those in the audience, that the paradigm is shifting, and that our approach on the ground level (that is to say, the classroom) needs to change. I don’t pretend to have changed a great deal of hearts and minds, but I at least hope that I was able to plant some seeds to the effect that stealing a bit of the enemy’s tactics will not tarnish our treasure.*  
