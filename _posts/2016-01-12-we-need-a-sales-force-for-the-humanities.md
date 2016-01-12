@@ -10,7 +10,7 @@ comments: true
 ![Picture](/graphics/books.png)
 
 *The following was drafted in November of 2014, just a month before I began sending off applications to PhD programs. I was also an adjunct instructor of Philosophy at a nearby community college. Though I am no longer teaching, I stand by the message presented below.*
-{: style="text-align: center; font-size: x-small"}
+{: style="text-align: center; font-size: small"}
 
 This past weekend, I found myself alone in Indianapolis, separated from my wife and child, and tasked with delivering a presentation at the [Community College Humanities Association Central Division conference](http://www.ccha-assoc.org/central.html). The information available at the time that I submitted my proposal was vague, but the theme of the conference was “Humanities at the Crossroads.” Given that prompt, I did what any sensible young pseudo-scholar would, I crafted a passionate, provocative presentation, aimed at drumming up discussion amongst the conference-goers. The title that I gave it at the time of the proposal (months and *months* beforehand) was *Valuating the Invaluable Humanities* (pdf of slides can be found [here](https://www.scribd.com/fullscreen/272029335?access*key=key-kCuyScCKEbtzfPO0yWcI&allow*share=false&escape=false&show*recommendations=false&view*mode=scroll)). However, the more apt title is captured in one of my title slides: *A Sales-force for the Humanities*.  
 
