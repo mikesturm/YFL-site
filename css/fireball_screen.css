@@ -1232,6 +1232,8 @@ p.footnotes {
 	font-size: .91em;
 	text-indent: -1em;
 	padding-left: 1em;
+	border-top: 1em;
+	border-top-style: solid;
 	}
 .footnotes hr {
 	margin-left: 0;
@@ -1245,7 +1247,7 @@ p.footnotes {
 	content: "";
 	}
 .footnotes p {
-	font-size: .91em;
+	font-size: .85em;
 	}
 a.footnoteBackLink {
 	border: 0;
