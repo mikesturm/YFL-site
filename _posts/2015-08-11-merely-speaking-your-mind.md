@@ -8,7 +8,7 @@ description: Yes, this is kind of about Donald Trump. But it's also about many, 
 comments: true
 published: true
 ---
-![Yes, this is kind of about him](/grahpics/theDonald.jpg)
+![](/grahpics/theDonald.jpg)
 
 
 There is a refrain that I’ve heard time and again, in various contexts, and about various people. It is a refrain that grates against the grey matter of my brain each time I hear it uttered. It goes something like this:
