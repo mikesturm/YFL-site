@@ -14,6 +14,7 @@ Productivity. It’s the buzz word of all buzzwords. It is that dragon that we a
 First of all, productivity doesn’t exist in a vacuum. Being productive is not an isolated virtue, good for its own sake. It’s only good if one is productive in the realm of something that *ought* to be produced. There is no sense in being productive for productivity’s sake. After all, I could be super productive in the realm of grass blade counting, but is there any good in my being productive at that? Probably not.  
 
 The focus, then, of productivity talk has to include being productive *at the right kinds of things*. But how do we determine what the right kinds of things are? That is where a lot more thinking is needed, and paradoxically, where we need to be a lot more productive.  
+<!--more-->
 
 
 
