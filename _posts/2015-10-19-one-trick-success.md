@@ -8,6 +8,7 @@ description:
 comments: true
 published: true
 ---
+![](/graphics/success_key.jpg)
 
 Succeeding at something great is difficult, and often complicated. If it weren’t, there would be a lot more people doing it. In fact, *you* would probably be doing it, rather than surfing for articles that *guarantee* that if you read them, you’ll succeed.
 
