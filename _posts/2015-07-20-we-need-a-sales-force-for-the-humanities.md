@@ -1,7 +1,6 @@
 ---
 layout: "post"
 title: "We Need a Sales-force for the Humanities"
-date: "2016-01-12 06:51"
 tags: [education, philosophy, humanities]
 published: true
 comments: true
