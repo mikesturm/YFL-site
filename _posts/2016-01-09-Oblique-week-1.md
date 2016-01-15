@@ -20,6 +20,8 @@ Here it is:
 
 >"Change nothing and continue with immaculate consistency."
 
+<!--more-->
+
 I know what you're thinking: how is this going to help me be more creative? How will changing nothing be the catalyst that sets a creative revolution in motion? After all, this is the two-thousand-tens! We're innovators---disruptors! We're uberizing and life-hacking! To change *nothing* is to lay down on your sword in the heat of battle!
 
 I hear you, friend, but consider this: perhaps the reason that you're stuck---and I'm assuming that you do get stuck, or else why would you bother reading this---is because you have not been following one path consistently. The urge to change, tweak, and hack can often be *so* strong that you end up making tweaks, changes, and alterations without even noticing. If you pay attention---*really* pay attention---to your process, I bet you'll catch yourself doing it. You started with a plan, a theme, a method.  But the minute---nay, the second---that things begin to look just a little like they were stalled, you tried to change course a little. You made a tweak, added a little something to your approach, or took something out. That seems like it would help to get you un-stuck, but consider what you are actually doing.
