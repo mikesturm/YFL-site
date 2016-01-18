@@ -6,6 +6,7 @@ categories: []
 tags: [productivity, business, success]
 description:
 comments: true
+permalink: the-one-simple-trick-that-will-help-you-succeed-stop-thinking-theres-one-simple-trick
 published: true
 ---
 ![](/graphics/success_key.jpg)

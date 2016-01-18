@@ -6,6 +6,7 @@ categories: []
 tags: [lifehacking, productivity]
 description:
 comments: true
+permalink: our-dangerous-obsession-with-hacking
 published: true
 ---
 

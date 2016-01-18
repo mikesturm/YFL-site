@@ -3,6 +3,7 @@ layout: "post"
 title: "The REAL Secret to Productivity"
 tags: [productivity, work, values]
 published: true
+permalink: the-real-secret-to-productivity
 comments: true
 ---
 

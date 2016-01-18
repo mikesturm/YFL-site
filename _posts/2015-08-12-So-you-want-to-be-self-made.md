@@ -6,6 +6,7 @@ categories: []
 tags: [entrepreneurship, business, help]
 description:
 comments: true
+permalink: so-you-want-to-be-self-made
 published: true
 ---
 ![moneybags](/graphics/moneybags.jpg)

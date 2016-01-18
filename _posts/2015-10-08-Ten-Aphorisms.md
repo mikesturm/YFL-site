@@ -5,6 +5,7 @@ subtitle:  Because the Internet Loves Lists and I’m Lazy
 categories: []
 tags: [advice, aphorisms]
 description:
+permalink: 10-aphorisms-for-your-consideration
 comments: true
 ---
 ![](/graphics/Fortune_cookie.jpg)

@@ -6,6 +6,7 @@ categories: []
 tags: [restraint, communication]
 description: Yes, this is kind of about Donald Trump. But it's also about many, many different people.
 comments: true
+permalink: there-is-no-virtue-in-merely-speaking-your-mind
 published: true
 ---
 

@@ -3,6 +3,7 @@ layout: "post"
 title: "We Need a Sales-force for the Humanities"
 tags: [education, philosophy, humanities]
 published: true
+permalink: we-need-a-salesforce-for-the-humanities
 comments: true
 ---
 
