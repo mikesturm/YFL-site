@@ -5,6 +5,7 @@ subtitle:
 categories: []
 tags: [creativity, productivity, art]
 description:
+permalink: my-resolution-for-2016-be-oblique
 comments: true
 ---
 ![image courtesy of enoshop.co.uk](/graphics/obliques.jpg)  
