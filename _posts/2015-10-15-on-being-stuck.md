@@ -6,6 +6,7 @@ categories: []
 tags: [writing, creativity, productivity]
 description:
 comments: true
+permalink: on-being-stuck-and-what-we-should-do-about-it
 ---
 ![](/graphics/Quixote.jpg)
 
