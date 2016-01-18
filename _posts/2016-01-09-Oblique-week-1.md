@@ -4,6 +4,7 @@ title: Oblique, Week by Week&#58; Week 1
 subtitle: Change Nothing, and Continue With Immaculate Consistency
 tags: blog, oblique strategies, creativity
 published: true
+permalink: oblique-week-by-week-week-1
 comments: true
 ---
 
