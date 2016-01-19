@@ -7,7 +7,7 @@ permalink: the-real-secret-to-productivity
 comments: true
 ---
 
-![Picture](/graphics/production_line.jpg)
+![Picture]({{ site.baseurl }}graphics/production_line.jpg)
 
 
 Productivity. It’s the buzz word of all buzzwords. It is that dragon that we all chase — day after day. It’s the subject of thousands of articles on hundreds of sites. A veritable ocean of ink has been spilled on the subject. But most of this ink assumes that everyone is clear on what productivity is, and why it is good. But lately, I’m not so sure that this is the case. I’m not sure that it’s clear to everyone what productivity is, exactly. I’m also not so sure that it’s clear *why* productivity is a good thing. This article is an attempt to make progress on those two points. My hope is that it is productive in that regard (pun *fully* intended).

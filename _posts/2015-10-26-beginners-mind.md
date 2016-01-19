@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-![Picture](/graphics/shoshin.jpeg)
+![Picture]({{ site.baseurl }}graphics/shoshin.jpeg)
 
 It is not news that nearly every company places a high premium on innovation. When companies innovate, they end up being able to (to put it simply) do more and do better. So it stands to reason that those people who can provide innovative ideas and get them moving toward implementation are highly valued. Fortunately, the more competitive the market gets, the more innovation is valued by companies; it's truly a skill for all seasons. But how does one become an innovator, how does one make up that great idea that can really turn everything upside down? Luckily, the answer kind of follows the form of a favorite internet trope of mine — the "one weird trick" proposal.
 

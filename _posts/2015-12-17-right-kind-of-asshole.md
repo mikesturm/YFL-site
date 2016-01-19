@@ -8,7 +8,7 @@ description:
 comments: true
 published: true
 ---
-![](/graphics/Disappointed_Face.jpg)
+![]({{ site.baseurl }}graphics/Disappointed_Face.jpg)
 
 It's going to happen today. It will likely happen tomorrow, unless of course you don't bother to leave the house, or boot up your computer—you're going to let someone down. Someone was desiring more from you—more money, more time, more attention, better results. There will be some part of that person who will think to themselves: *man, that guy [or girl] is an asshole!*
 <!--more-->    

@@ -10,7 +10,7 @@ permalink: there-is-no-virtue-in-merely-speaking-your-mind
 published: true
 ---
 
-![The Donald](graphics/theDonald.jpg)
+![The Donald]({{ site.baseurl }}graphics/theDonald.jpg)
 He's fired...up!
 {: style="text-align: center; font-size: small"}
 

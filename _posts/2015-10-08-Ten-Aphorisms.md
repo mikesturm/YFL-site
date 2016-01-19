@@ -8,7 +8,7 @@ description:
 permalink: 10-aphorisms-for-your-consideration
 comments: true
 ---
-![](/graphics/Fortune_cookie.jpg)
+![]({{ site.baseurl }}graphics/Fortune_cookie.jpg)
 
   1. It is literally impossible to do both of the following things (a) Pick yourself up by the bootstraps; (b) be self-made. That being the case, don’t be so hubristic as to claim to have done either, or suggest that others do so.
   2. Everyone is aiming toward some perceived good---some form of happiness or alleviation of suffering. Don’t make the mistake of seeing others’ motives as hollow. At best it shows you to be ignorant and superficial. At worst, it denies you the ability to truly understand others.

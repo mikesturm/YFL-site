@@ -8,7 +8,7 @@ description:
 permalink: my-resolution-for-2016-be-oblique
 comments: true
 ---
-![image courtesy of enoshop.co.uk](/graphics/obliques.jpg)  
+![image courtesy of enoshop.co.uk]({{ site.baseurl }}graphics/obliques.jpg)  
 image credit: enoshop.co uk
 {: style="text-align: center; font-size: small"}
 

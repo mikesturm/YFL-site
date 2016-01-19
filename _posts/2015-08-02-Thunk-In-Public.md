@@ -9,7 +9,7 @@ permalink: thunk-in-public-why-good-business-needs-good-philosophers
 comments: true
 published: true
 ---
-
+[]({{ site.baseurl }}graphics/philosopher.jpg)
 > Philosophers have hitherto only **_interpreted_** the world in various ways; the point is to **_change_** it.
 > - Karl Marx -
 

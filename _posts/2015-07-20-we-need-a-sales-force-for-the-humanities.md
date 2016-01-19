@@ -7,7 +7,7 @@ permalink: we-need-a-salesforce-for-the-humanities
 comments: true
 ---
 
-![Picture](/graphics/books.png)
+![Picture]({{ site.baseurl }}graphics/books.png)
 
 *The following was drafted in November of 2014, just a month before I began sending off applications to PhD programs. I was also an adjunct instructor of Philosophy at a nearby community college. Though I am no longer teaching, I stand by the message presented below.*
 {: style="text-align: center; font-size: small"}

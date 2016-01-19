@@ -9,7 +9,7 @@ comments: true
 permalink: so-you-want-to-be-self-made
 published: true
 ---
-![moneybags](/graphics/moneybags.jpg)
+![moneybags]({{ site.baseurl }}graphics/moneybags.jpg)
 
 So you want to go around touting yourself as a self-made millionaire, or whatever sobriquet you’d like to adorn yourself with, here’s a checklist of things you must do beforehand. Once these are complete, self-aggrandize to your heart’s content!
 <!--more-->

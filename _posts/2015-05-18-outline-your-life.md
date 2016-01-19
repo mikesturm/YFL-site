@@ -8,7 +8,7 @@ permalink: outline-your-life-or-run-the-risk-of-failing-to-live-it
 comments: true
 ---
 
-![clouds](/graphics/clouds.jpg)
+![clouds]({{ site.baseurl }}graphics/clouds.jpg)
 
 Can you quickly, and without hemming and hawing, answer the following 2 part question?
 
