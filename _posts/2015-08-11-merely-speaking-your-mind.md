@@ -3,14 +3,16 @@ layout: post
 title: There is No Virtue in Merely Speaking Your Mind
 subtitle:
 categories: []
-tags: [restraint, communication]
+tags: [restraint, communication, politics]
 description: Yes, this is kind of about Donald Trump. But it's also about many, many different people.
 comments: true
 permalink: there-is-no-virtue-in-merely-speaking-your-mind
 published: true
 ---
 
-![the Donald](/grahpics/theDonald.jpg)
+![The Donald](graphics/theDonald.jpg)
+He's fired...up!
+{: style="text-align: center; font-size: small"}
 
 There is a refrain that I’ve heard time and again, in various contexts, and about various people. It is a refrain that grates against the grey matter of my brain each time I hear it uttered. It goes something like this:
 

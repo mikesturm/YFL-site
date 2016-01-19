@@ -6,7 +6,7 @@ categories: []
 tags: [education, careers, advice]
 description:
 published: true
-permlink: testing
+permalink: testing
 comments: true
 ---
 
