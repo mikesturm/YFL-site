@@ -2,7 +2,9 @@
 layout: default
 title: Home
 ---
-
+<head>
+  <link rel="alternate" type="application/rss+xml" title="Your Fool's Feed" href="http://mikesturm.net/feed.xml" />
+</head>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -16,20 +18,20 @@ title: Home
 
     <div>
 
-    {{ post.excerpt }} 
-    {% capture content_words %} 
-      {{ post.content | number_of_words }} 
-    {% endcapture %} 
-    {% capture excerpt_words %} 
-      {{ post.excerpt | number_of_words }} 
-    {% endcapture %} 
+    {{ post.excerpt }}
+    {% capture content_words %}
+      {{ post.content | number_of_words }}
+    {% endcapture %}
+    {% capture excerpt_words %}
+      {{ post.excerpt | number_of_words }}
+    {% endcapture %}
     {% if excerpt_words != content_words %}
     <p><a href="{{ post.url }}/#read-more">Read more →</a>
     </p>
     {% endif %}
 
   <br>
-  
+
 <div style="text-align:center; font-size:small;">
   <a href="#top">Back to top of page</a>
 </div>
