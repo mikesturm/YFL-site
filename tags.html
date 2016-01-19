@@ -2,6 +2,15 @@
 layout: page
 title: The Archives
 ---
+{% for category in site.categories %}
+    <li style="font-size: {{ category | last | size | times: 100 | divided_by: site.categories.size }}%">
+        <a href="/{{ category | first | slugize }}/">
+            {{ category | first }}
+        </a>
+    </li>
+{% endfor %}
+<!--ends tag cloud experiment section
+
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -17,4 +26,4 @@ title: The Archives
   {% endif %}
 {% endfor %}
 </ul>
-{% endfor %}
+{% endfor %}-->
