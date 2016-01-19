@@ -6,6 +6,10 @@ permalink: "colophon.html"
 
 <!--[courtesy of Smithlifescience.com](/graphics/ImaginaryCreature.GIF)-->
 
+##Who I am
+
+I am Mike Sturm. I am a [recovering academic]({{ site.basurl}}why-i-chose-to-give-up-on-academia), now writing about learning, productivity, creativity, and getting better.  At one time, [I taught philosophy](http://mikesturm.weebly.com/philosophyteaching.html), and was hell-bent on making that my career. Now I work in the industrial supply industry, at a pretty cool company in the Midwest.
+
 ##What This Is
 
 The name of this site is sardonic, and intended to convey that I do not propose to be an expert at anything, nor do I claim to have a better perspective on any issue than anyone else writing on the same topics as myself. That does not mean, however, that I will not write with sincerity and passion--after all, I *believe* the things that I am saying. At best, I am close to being right on a few things, at worst, I am fumbling through reality much like a punctured dirigible.
@@ -24,7 +28,6 @@ The posts are written using a [derivative of markdown](http://kramdown.gettalong
 - [ResophNotes](http://www.resoph.com/ResophNotes/Welcome.html)
 - [Simplenote](http://simplenote.com/)
 - [editorial](http://omz-software.com/editorial/)
-- [Sublime Text](http://www.sublimetext.com/)
 - [Atom](https://atom.io/)[^1]
 
 
@@ -43,4 +46,4 @@ Thank you for reading.
 
 <!--- Divider for footnotes --->
 
-[^1]: This is a recent development, mostly for my Windows-based machine (*sigh*), but it looks promising as an alternative to Sublime Text, if that program isn't actually free (which...it isn't, I guess...?)
+[^1]: This is a recent development, mostly for my Windows-based machine (*sigh*).
