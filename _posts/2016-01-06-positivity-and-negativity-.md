@@ -15,5 +15,3 @@ Far be it from me to quote something from a comment on a comment on a [blog post
 >Haven’t been disappointed yet.
 
 Thanks, Douglas Michael Massing.
-
-Adding some stuff to test.
