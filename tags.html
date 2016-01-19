@@ -23,13 +23,13 @@ title: The Archives
 {% endfor %}
 
 <br>
-<h1>Posts by Year</h1>
+<h1>Posts by Date</h1>
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    <h1 id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h1>
     <ul>
     {% assign date = currentdate %}
   {% endif %}
