@@ -8,6 +8,7 @@ permalink: hoping-for-malcolm
 comments: true
 published: true
 ---
+![](graphics/Malcolm-x.jpg)
 
 I read an excellent [piece by John Metta on Medium](https://thsppl.com/the-magical-martin-luther-king-cc2bb329c585#.vdg9wx739) today, and it re-kindled some embers in my mind about the Civil Rights movement which have been long cooled. Metta's piece has numerous quotable passages, but this one gets at the essence of what is kind of irksome about most of America's treatment of the Movement, and the assignment of its mascot, Dr. King:
 
