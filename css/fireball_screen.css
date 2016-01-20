@@ -589,10 +589,10 @@ and (max-device-width : 568px) {
 
 #SidebarTheDeck {
 	border: 0;
-	margin: 16em 0 0 2em;
+	margin: 16em 0 0 0;
 	padding: 0;
-	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
 	font-size: 1em;
+	font-weight: bold;
 	}
 
 #SidebarTheDeck a:hover {
