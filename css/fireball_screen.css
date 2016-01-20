@@ -1228,7 +1228,7 @@ a.no_underlines:hover {
 	background: transparent;
 	}
 
-p.footnotes {
+.footnotes {
 	font-size: .91em;
 	text-indent: -1em;
 	padding-left: 1em;
