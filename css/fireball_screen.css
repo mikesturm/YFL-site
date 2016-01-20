@@ -1229,10 +1229,10 @@ a.no_underlines:hover {
 	}
 
 .footnotes {
-	font-size: .91em;
+	font-size: .94em;
 	text-indent: -1em;
 	padding-left: 1em;
-	border-top: 1em;
+	border-top: 1px;
 	border-top-style: solid;
 	}
 .footnotes hr {
