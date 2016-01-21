@@ -2,11 +2,20 @@
 layout: page
 title: The Archives
 ---
-<!--JavaScript for expand/collapse-->
-<script>
-$('.expander').simpleexpand();
-</script>
+<h1>Posts by Date</h1>
 
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h1 id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h1>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+<br>
 <h1>Posts by Tag</h1>
 
 
@@ -15,8 +24,7 @@ $('.expander').simpleexpand();
   {% assign posts = tag | last %}
 
 {{ t | downcase }}
-<a class="expander" href="#">&#9660;</a>
-<div class="content">
+
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
@@ -30,22 +38,4 @@ $('.expander').simpleexpand();
   {% endif %}
 {% endfor %}
 </ul>
-{% endfor %}
-</div>
-<!--end expand/collapse script-->
-
-
-<br>
-<h1>Posts by Date</h1>
-
-{% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%B %Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%B %Y"}}">{{ currentdate }}</h1>
-    <ul>
-    {% assign date = currentdate %}
-  {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
