@@ -810,6 +810,7 @@ and (max-device-width : 568px) {
 
 
 /**** Classes *************************************************************/
+.content {display:none;}
 
 .post {
 	background-color: transparent;

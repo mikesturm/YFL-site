@@ -2,8 +2,15 @@
 layout: page
 title: The Archives
 ---
+<!--JavaScript for expand/collapse-->
+<script>
+$('.expander').simpleexpand();
+</script>
+
 <h1>Posts by Tag</h1>
-<br>
+<a class="expander" href="#">&#9660;</a>
+<div class="content">
+
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -21,6 +28,8 @@ title: The Archives
 {% endfor %}
 </ul>
 {% endfor %}
+</div>
+<!--end expand/collapse script-->
 
 <br>
 <h1>Posts by Date</h1>
