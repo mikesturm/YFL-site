@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News is in the Air
+title: Is the News Good for Us?
 tags: [news, information, knowledge, wisdom]
 permalink: On-the-news
 published: true
