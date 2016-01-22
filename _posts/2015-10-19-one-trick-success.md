@@ -27,7 +27,7 @@ The fact is, each person has a different path to prosperity. The paths vary in c
 
 I don’t know, you tell me.
 
-Who made you think that you have to be the next Steve Jobs to succeed? Probably Walter Isaacson. Allow me to blow your mind. You define what it means to succeed. This is unequivocally true because success is by definition to achieve some goal. A goal is something that is set or accepted by you. Therefore, you decide what it means to succeed. If you have set impossibly high goals, fail to achieve them, and are a miserable as a result, consider adjusting your goal, at least for now. If the goal was set externally by someone else, and your failure to achieve it keeps you up at night, you’re not off the hook---*you* accepted and internalized that goal. You can just as easily renegotiate that goal---if you are willing to work at that.
+Who made you think that you have to be the next Steve Jobs to succeed? Probably Walter Isaacson. Allow me to blow your mind. You define what it means to succeed. This is unequivocally true because success is by definition to achieve some goal. A goal is something that is set or accepted by you. Therefore, you decide what it means to succeed. If you have set impossibly high goals, fail to achieve them, and are miserable as a result, consider adjusting your goal, at least for now. If the goal was set externally by someone else, and your failure to achieve it keeps you up at night, you’re not off the hook---*you* accepted and internalized that goal. You can just as easily renegotiate that goal---if you are willing to work at that.
 
 ### Just Keep at It
 
