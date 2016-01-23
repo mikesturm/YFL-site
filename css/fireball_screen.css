@@ -732,7 +732,8 @@ and (max-device-width : 568px) {
 	margin-top: 14em;
 	padding-bottom: 1em;
 	text-align: left;
-	background-color: transparent;
+	background-color: black;
+       color: white;
 	}
 
 /* ProjectSubmenu: Cribbed from Waferbaby... */
