@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Oblique, Week by Week: Week 3
-subtitle: The One and the Many
-tags: oblique strategies, creativity
+subtitle: Stress and Focus
+tags: [oblique strategies, creativity]
 published: true
 permalink: oblique-week-by-week-week-3
 comments: true
