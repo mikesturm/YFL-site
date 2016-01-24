@@ -7,7 +7,7 @@ published: true
 permalink: oblique-week-by-week-week-3
 comments: true
 ---
-
+![latticework]({{ site.baseurl }}graphics/latticework.jpg)
 
 *This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets them. For background on the series and the strategies, please read [the series introduction]({% post_url 2016-01-01-Oblique-resolution %}).*
 {: style="text-align: center; font-size: small"}
