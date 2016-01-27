@@ -4,7 +4,8 @@ title: Recommended Reading
 permalink: "reading.html"
 ---
 
-Below is a list of literature---both digital and paper-based---that will do two things:
+Below is a list of literature---both digital and paper-based---that will do two things:  
+
 1. Help you to more fully appreciate the content of this site.
 2. Have at least a mildly positive impact on your life.
 
