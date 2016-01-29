@@ -7,7 +7,7 @@ comments: true
 published: true
 permalink: power-of-ritual
 ---
-
+![ritual]({{ site.baseurl }}graphics/ritual.jpg)
 
 From the time I was a toddler until I broke away from the Catholic church in high school, I attended mass every Sunday. I would watch as hundreds of people of all ages filed in each week, and filled the pews. I found myself fascinated and comforted by one aspect of the proceedings in particular---the pre-communion ritual.
 
@@ -23,9 +23,9 @@ What really reaps benefits, what really cements progress, is the solidification 
 I want to be clear here about the term “comfort”. Comfort does not mean satisfaction, contentment, or happiness. All it really means is whatever one is used to. Heroin addicts are used to either pain and sickness or euphoria, and no middle-ground. Abused children are used to violence and trauma. The list goes on and on. The point is, people are extraordinarily adaptable beings, and they do adapt to being comfortable with terrible and damaging situations.
 Here’s the formula:
 
- •	People crave comfort
- •	Comfort comes from familiarity---from being able to predict what is going to happen, and watching it unfold as predicted.
- •	Ritual makes this familiarity concrete. It literally lays out how to make sure everyone knows what’s going to happen, exactly when, and exactly how.
+ - People crave comfort
+ - Comfort comes from familiarity---from being able to predict what is going to happen, and watching it unfold as predicted.
+ - Ritual makes this familiarity concrete. It literally lays out how to make sure everyone knows what’s going to happen, exactly when, and exactly how.
 
 
 It stands to reason, then, that rituals are the secret to progress. If you are unhappy, chances are the following things are true: there are already rituals in place, but they are bad ones. You’ll need to slowly cut and paste within the existing rituals of your life to transform them into good ones. Swap out the unsavory activities for ones that help make advancements toward your goals. There is no easy way to do this, but the focus is much smaller than on just “making changes”.

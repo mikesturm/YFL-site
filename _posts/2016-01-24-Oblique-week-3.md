@@ -21,6 +21,8 @@ This week's strategy is about the different aspects of what you're working on, a
 
 >Don't stress one thing more than another.
 
+<!--more-->
+
 Anyone familiar with modern business culture knows that prioritization---stressing one thing more than another (or, in most cases, *many* others) is often viewed as good practice. Sometimes, however, prioritization can serve to make one focus *too much* on one thing, at the cost of others that may be worthy of more focus. What you end up with, then, is a lopsided ship---one that becomes harder to sail, because it takes more work just to keep it upright. You would be surprised at how often we end up getting stuck in just this balancing act. We're either stuck because we get exhausted doing it---and can't muster up the energy to do anything else, or we get stuck because we keep getting the same results from our lopsided approach, and things become stale. Here---from Messrs. Eno and Schmidt---we have an alternative approach to help address this problem.
 
 
