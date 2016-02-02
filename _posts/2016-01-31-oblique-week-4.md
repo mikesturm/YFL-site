@@ -19,6 +19,8 @@ The random pick from the deck this week graced me with a fairly easy strategy to
 
 >Abandon normal instruments.
 
+<!--more-->
+
 It sounds like a standard best practice to "switch things up" in order to make creative breakthroughs. But though this may seem to be what this week's strategy implies, it's actually much more than "switching up". It's about identifying the instruments you chronically rely upon, and abandoning them---intentionally leaving them behind, and not just trying something else as a fling.
 
 
