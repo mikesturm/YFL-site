@@ -14,7 +14,7 @@ From the time I was a toddler until I broke away from the Catholic church in hig
 For those uninitiated, it is the epitome of ceremony. The priest, clad in robes and embroidered regalia, receives water and wine in ornate glass decanters, from the altar boys (or girls, as is now the case). He then proceeds with an oration, a blessing, written and codified so as to replicate the solemn blessings of Jesus at the historical last supper. The words themselves will vary slightly from priest to priest, but regular attendees tend to learn them by heart. Interlaced with these ancient words are these graceful and elaborate, yet understated gestures---signs of the cross over the chalice and the wafer, raising the wafer above the priest’s head and bowing, kneeling, etc. The whole series is only a few minutes long, but is utterly saturated with an air of ritual. And that brings me to the real focus of this piece of writing: ritual.
 
 
-##Ritual: the Gateway to Habit
+## Ritual: the Gateway to Habit
 
 In all of the productivity literature I’ve read, there are numerous hacks and tricks invoked---all promising to deliver huge and immediate gains in productivity. The problem, though, is that none of those tricks or hacks will deliver the most important thing---sustained productivity gains. Only habit will do this. A fancy trick, or flashy new tool will make you feel great about yourself and your process for a while---until you fall back into your old habits. This is true in any realm of one’s life, from relationships to work, and beyond.
 
@@ -33,7 +33,7 @@ It stands to reason, then, that rituals are the secret to progress. If you are u
 The real “trick”, if there is one, is to really grab on to the ritual. In order to do that, you have to insert something that you look forward to---usually something sensory. For instance, for the last 3 years or so, I realized that if I wanted to stay physically fit---given the other goings on in my life---I’d have to work out early in the morning. The necessary wake-up time is about 4 am. At first this was completely paralyzing to think about, but waking up at that time became easier if it allowed me time to listen to the radio and make myself a cup of coffee, as well as fiddle around on the computer. These things are not the primary activity---working out is. However, they are part of the ritual---a part that provides immediate gratification to that version of me that was weakest as I began building the ritual. Now, 3 years in, if I don’t wake up at 4 am on Monday, Wednesday, or Friday, something feels off. I begin to feel uncomfortable.
 
 
-##Strive for Comfort
+## Strive for Comfort
 
 To put a bow on what I’ve laid out above, I’m going to offer a very unconventional maxim. At least, it’s unconventional for this space---the space where people claiming to be productivity gurus foist their commandments upon the masses in so many worn-out aphorisms. So here’s my unconventional advice: leverage comfort to your advantage.
 
