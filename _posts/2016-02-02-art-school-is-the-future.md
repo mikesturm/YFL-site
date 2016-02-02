@@ -3,6 +3,7 @@ layout: post
 title: Is Art School the Future?
 tags: creativity, art, education
 permalink: art-school-future
+published: true
 comments: true
 ---
 
