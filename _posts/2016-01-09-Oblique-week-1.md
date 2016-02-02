@@ -29,7 +29,7 @@ I hear you, friend, but consider this: perhaps the reason that you're stuck---an
 
 
 
-##A Tale of Two Clocks
+## A Tale of Two Clocks
 
 There is an old saying, of which I'm sure most readers are aware, that even a broken clock is right twice a day.
 Consider how that compares to a clock that is still ticking, but set to the wrong time.
@@ -43,7 +43,7 @@ However, if you quickly resort to changing your approach, tweaking things, etc.,
 I promise, there *are* such benefits---hence the popularity of the maxim "done is better than perfect". Really, unless whatever project you're working on is the one that you're *absolutely certain* is going to be your last, why does it have to be perfect? Even if it *did*, for some reason, have to be perfect, what makes you so sure that whatever tweaks or changes you're thinking of making are going to make it perfect. Again, a broken clock, or a running one set to the wrong time? Given uncertainty, perhaps the former is the better strategy.  What's the worst that could happen? You actually *complete* the work that you've been bashing your head against the wall trying to complete? How terrible! But  guess what? You've now got momentum on your side. You're making stuff, you're producing. So start *another thing*, decide on a new approach to take, and just let that approach come to fruition, rather than mucking it up by modifying it with all sorts of tweaks and diversions along the way.
 
 
-##The Benefit of Shifting Focus
+## The Benefit of Shifting Focus
 
 There is one more beneficial aspect to this strategy of changing nothing, and it comes by way of the latter clause of the strategy: "...continue with immaculate consistency".
 

@@ -38,7 +38,6 @@ Simply put, if your runway consists of any tasks that don’t help you get to yo
   4. Take out your original to-do list and place it alongside your new 50,000 ft. list.
   5. For each item from your original to-do list, attempt to place it in the space under one of your **major** goals on your new list. Skip any items that you can’t place within a minute or two. Cross each item off of your original list as you place it.
 
-   [4]:
 
 After those 5 steps are done, take a deep breath; you’re on your way, but there’s one last step to do. You will have to spend some time with each of the items on your original to-do list that you couldn’t place under a goal on your new list. If you really want to hop on the fast track to enlightenment, crumple up this crowded to-do list and throw it away (along with all copies of it). After all, why are you tasking yourself with projects that don’t comport with your overall goals? That may be a bit too radical for most people, and I understand that.
 

@@ -23,7 +23,7 @@ All that preamble is to say this: I have a resolution this year. Actually, I hav
 
 <!--more-->
 
-##What are These Things, Now?
+## What are These Things, Now?
 
 Great question.
 
@@ -35,14 +35,14 @@ The *Oblique Strategies* were created in 1975 by Brian Eno and Peter Schmidt. So
 
 Who of us hasn't found ourselves in the situation Eno mentions? Who among us has been stuck, and/or up against the wall, knowing that we need to approach the problem from a different angle? I'll answer for you: *most of us*.
 
-##What Will I do With Them?
+## What Will I do With Them?
 
 My aim is this: each week, I'll pick a random oblique strategy from the deck,[^2] and write a post in which I analyze and interpret it in the most generally applicable way of doing so. The goal is twofold:
 
 1. I believe that these strategies are useful, and I want to share them with the world. What better way to do that then the internet?
 2. Having to write an analysis of one strategy each week will surely help to push me creatively, as much as I hope that *reading* said analysis will help readers be more creative.
 
-##Why Should Anyone Care?
+## Why Should Anyone Care?
 
 This brings me to a very important point, which will likely resurface as I write about these. There is a lot of talk (and writing) about innovation. But innovation is a term centering around *results*, not around *how* those results come to be. Take a look at the definition:
 

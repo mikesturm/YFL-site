@@ -19,7 +19,7 @@ So here’s the simple trick you’ve been looking for to guarantee success:
 <!--more-->
 understand there is no one simple trick. There is no hack, there is no thing that Steve Jobs, Elon Musk, Jeff Bezos, and {insert name of eccentric entrepreneurial idol here} all did to gain success and fame. Once you begin to understand and accept that, perhaps you can get moving.
 
-### But, But, I read somewhere that….
+## But, But, I read somewhere that….
 
 Yeah, I read *Think and Grow Rich*, and I read *The Secret*, and *The 7 Habits of Highly Effective People*, and whatever Malcolm Gladwell book you want to whip  out in cocktail conversation. Remember, those were written by people. Each person has a subjective viewpoint of reality, particular experiences, and try as they might, they can’t penetrate the veil of other people’s private experiences. So how can they know that their one secret is really the universal hack to prosperity? They can’t. They don’t. They mean well, and are undoubtedly trying to help, but if they get you to believe that it’s all that simple, they set you up for infinite frustration.
 
@@ -29,7 +29,7 @@ I don’t know, you tell me.
 
 Who made you think that you have to be the next Steve Jobs to succeed? Probably Walter Isaacson. Allow me to blow your mind. You define what it means to succeed. This is unequivocally true because success is by definition to achieve some goal. A goal is something that is set or accepted by you. Therefore, you decide what it means to succeed. If you have set impossibly high goals, fail to achieve them, and are miserable as a result, consider adjusting your goal, at least for now. If the goal was set externally by someone else, and your failure to achieve it keeps you up at night, you’re not off the hook---*you* accepted and internalized that goal. You can just as easily renegotiate that goal---if you are willing to work at that.
 
-### Just Keep at It
+## Just Keep at It
 
 Other than the “one trick” I provided above, you can employ one other “hack” to success and prosperity. If you absolutely *must* keep an audacious goal for yourself, then make it one such that the extremely hard work needed to accomplish it is fulfilling in and of itself. This way, when you (inevitably) fail again and again to achieve your goal throughout your tenure of trying (as nearly everyone does), two things remain true:
 

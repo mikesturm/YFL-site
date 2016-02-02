@@ -21,7 +21,7 @@ The focus, then, of productivity talk has to include being productive *at the ri
 
 ![Picture](/graphics/secret.jpeg)
 
-##The REAL Secret
+## The REAL Secret
 
 If productivity is simply producing more of whatever thing you’re working on, then the *real* secret of ultimate productivity begins to surface.  
 
@@ -39,7 +39,7 @@ Essentially, to get productive, you’re going to need to get rid of a lot of st
 
 ![Picture](/graphics/hands.jpeg)
 
-##How to do Meta-Productivity
+## How to do Meta-Productivity
 
 
   1. **Abandon your assumptions**: Go into your session of hard soul-searching without any assumptions about what your priorities are — what’s really worth getting done. The more you assume you know, the less you’ll notice when you search your feelings and your values.  

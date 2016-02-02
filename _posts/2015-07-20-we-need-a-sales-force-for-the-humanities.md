@@ -16,7 +16,7 @@ This past weekend, I found myself alone in Indianapolis, separated from my wife 
 
 <!--more-->
 
-###The Gist
+### The Gist
 
 The gist of my talk was this: the paradigm of college education is shifting from what I call the “scholé paradigm” to the “market paradigm”. Each paradigm is made up of a **context** and **content**. The scholé paradigm had the context of:  
 

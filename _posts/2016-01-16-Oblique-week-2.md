@@ -25,7 +25,7 @@ It's the second week of my year-long analysis of the oblique strategies. Last we
 Most immediately, this is about silencing your inner critic. But more than that, it's about what might be a hidden purpose of creative work. Could it be that creative work is *really* about proving that something is possible, after all? Think about the most notable creative works that you've encountered. How many of them *don't* in some way work against the received "wisdom" about what was possible, or what was commonplace? How many of those works don't swim (in some way) against the current, or forge a heretofore untrodden path (to further mix my metaphors)? I submit that nearly all of the notable works in the densely woven tapestry of human creative history have done just that.
 
 
-##Momentum Is Key
+## Momentum Is Key
 
 Creative work is difficult. The concept of the *Oblique Strategies*---and thus this very series---is predicated on that fact. One of the most difficult aspects of creative work is gaining, and then maintaining momentum. Often times, we place hurdles in front of ourselves at the very beginning of the journey, as we start to work on a project. We tend to do this---either consciously or subconsciously---by getting critical much too early. We begin assessing whether or not our desired outcome is even possible, when we've barely even become aware of what it is we're trying to do. Think about what this *does* to us, psychologically. It places roadblocks in front of us; it impedes---nay, *prevents* momentum. It is like placing a hurdle 2 feet in front of the starting line of a race. Only a lucky few would be able to surmount such an obstacle with no time to get into a stride. When we concern ourselves with possibility as we try to do creative work, we begin dropping hurdles in front of ourselves far too soon.
 
@@ -37,7 +37,7 @@ So consider this question: What if the unstated goal of your work becomes this: 
 
 
 
-##Impossibilities Abound
+## Impossibilities Abound
 
 Perhaps the best example of this approach to abandoning possibility comes by way of the Cubism movement in visual art. What an ambitious goal it was, to portray all of the perspectives of objects, people, and scenes simultaneously to the viewer---to stand outside of the boundaries of time and space, and conveying that transcendence *visually*.
 

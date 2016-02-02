@@ -11,7 +11,8 @@ published: true
 ---
 
 ![]({{ site.baseurl }}graphics/Fsocietyman.png)
-####Image Credit: USA Network/Anonymous Content
+{: style="text-align: center; font-size: small"}
+Image Credit: USA Network/Anonymous Content
 
 It’s rare that a word with a very negative connotation gets a second chance, but the term “hack” is a prime example of that rare occurrence. The word “hack” used to describe a person---ostensibly some sort of professional---who was terrible at what they did. In fact, a very telling definition, courtesy of Random House, reads as follows:
 
@@ -72,13 +73,13 @@ two things. You either:
 1.  Renegotiated or eliminated the commitment to---or desire for---a
     result, putting in its place some other---usually more
     quickly/easily achieved result.
-2.  *Acting*as if effort or cost has been cut out, when it has actually
+2.  *Acting* as if effort or cost has been cut out, when it has actually
     been deferred or shifted elsewhere.
 
 In either case, you have not figured out a shorter distance than a
 straight line between A and B ; you have NOT changed the terrain.
-Rather, you have changed your *perception*of the terrain—you have either
-*found*the straight line between A and B where others were previously
+Rather, you have changed your *perception* of the terrain—you have either
+*found* the straight line between A and B where others were previously
 taking a zig-zagging path---or you have realized that though you and
 most others thought that B was the desired destination point, it’s
 actually some less distant point,C, which is easier to reach.
@@ -107,7 +108,7 @@ valued my Samsung Blackjack at one time; I wouldn’t even use it as a
 doorstop now.
 
 Value concerns aside, hacks and workarounds are dangerous
-because---quite simply---you can’t fool the universe. You *will*expend
+because---quite simply---you can’t fool the universe. You *will* expend
 the necessary effort, one way or another---at one *time* or another.
 Maybe not even you, but the effort will be expended by someone,
 somewhere down the line.
@@ -162,7 +163,7 @@ If you managed to read this whole thing, congratulations and thank you.
 
 For those who prefer to skim for heading type, below is the takeaway:
 
-####In Short:
+### In Short:
 
 Hacking is dangerous because we believe we are changing or bending the
 rules of reality, but we are not. Rather, in many cases, we are merely

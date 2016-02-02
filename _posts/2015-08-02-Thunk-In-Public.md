@@ -19,7 +19,7 @@ When I first elected to take up philosophy as a vocation, I was 19 years old. My
 For reasons that I’ve [addressed elsewhere]({{ site.baseurl }}why-i-chose-to-give-up-on-academia), I recently closed the door on that career path, after a long and arduous bout of soul-searching. But as I began my career in the non-academic world that I had initially viewed as an interim affair, I came to ask myself if  I really couldn’t bring my scholastic tendencies into the business world.
 
 
-##Going Public
+## Going Public
 
 There have been movements aimed at bringing philosophy into the public, aimed mostly at counseling or otherwise [educational or therapeutic purposes for individuals](http://www.philopractice.org/), with some [tangential mention of being involved in business](http://www.philosophy-foundation.org/what-we-do/philosophy-in-business). I firmly believe that philosophy can and should play this part for individuals — that’s why many philosophers did their work in the first place.
 
@@ -28,7 +28,7 @@ What I want to advocate, though, is for a bigger push — by philosophers 
 I don’t recommend this “big push” out of the clear blue sky; I’ve been living it for the past 5 years. Around the time I completed my MA in philosophy, I took a job at a small(ish) [company that does industrial supply](http://fieldfastener.com/2014/07/18/who-is-field-part-1-integrity/), engineering, and logistics — which doesn’t sound like the most welcoming of such a seemingly esoteric discipline as philosophy. But lo and behold, a half-decade later, and my having moved up in the company is a direct result of my having employed the tools that I smuggled in from my training in philosophy.
 
 
-##Hire Some Philosophers
+## Hire Some Philosophers
 
 Philosophical training allows for a certain kind of speculation (what Alfred North Whitehead called “speculative philosophy”). Speculation is characterized by its freedom. But in every discipline, speculation, and the characteristic freedom is usually limited by whatever the foundational principles are of that discipline. Philosophy, on the other hand, really has no foundational principles. In fact, it’s modus operandi involves _questioning_ the foundational principles of all of the other disciplines.
 
