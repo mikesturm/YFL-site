@@ -11,7 +11,9 @@ comments: true
 
 Nearly every day, I find myself overwhelmed by the sheer volume of information to which I, as a humble non-tech-sector layperson, have access. The internet, for all the faults that it may bring out or reveal in us humans,  never ceases to  impresses me with its ability to provide large amounts of fertilizer for knowledge.
 
-But, as is the case with *abilities*, the internet's ability to fertilize the fields of our minds can go to waste if we don't go about cultivating it in the right way. What follows is a short guide to doing just that. It is a model that I have begun to use for *doing* something with all the information that I come across out there in cyberspace.
+The problem with fertilizer, though, is that bullshit happens to be a great fertilizer. As anyone with a connection to it can attest, the internet is rife with just that particular type of fertilizer.
+
+The internet's ability to fertilize the fields of our minds can go to waste if we don't go about cultivating it in the right way. What follows is a short guide to doing just that. It is a model that I have begun to use for *doing* something with all the information that I come across out there in cyberspace.
 <!--more-->
 
 ### Bite
