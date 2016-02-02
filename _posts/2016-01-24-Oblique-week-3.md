@@ -26,7 +26,7 @@ This week's strategy is about the different aspects of what you're working on, a
 Anyone familiar with modern business culture knows that prioritization---stressing one thing more than another (or, in most cases, *many* others) is often viewed as good practice. Sometimes, however, prioritization can serve to make one focus *too much* on one thing, at the cost of others that may be worthy of more focus. What you end up with, then, is a lopsided ship---one that becomes harder to sail, because it takes more work just to keep it upright. You would be surprised at how often we end up getting stuck in just this balancing act. We're either stuck because we get exhausted doing it---and can't muster up the energy to do anything else, or we get stuck because we keep getting the same results from our lopsided approach, and things become stale. Here---from Messrs. Eno and Schmidt---we have an alternative approach to help address this problem.
 
 
-##Shifting Focus
+## Shifting Focus
 
 To unwrap this week's strategy a bit, the suggestion is to take a step back from your work, and look at it from the highest level you can. When you do, the first thing you will notice is that you've been stressing one thing over others. If you're saying "but my work is just *one* thing!" then you have proven the point---you've been stressing one thing so much that you've forgotten that there *are actually other things*!
 
@@ -37,7 +37,7 @@ What you get here---at this highest level---is a view of the parts of your work,
 
 
 
-##Uncertainty
+## Uncertainty
 
 From a new perspective, it is also easier to ask more fundamental questions, and to answer them, because you're less likely to be hindered by the blinders you put on when focusing on one project or aspect of your work and life. But the point of the strategy is to not stress one thing more than another, so you will have to put in the cognitive work of adopting a large-scale view where nothing is more in focus than anything else. This in and of itself can be very difficult because our tendency is to hone in on certain aspects of work and life. But this honing in has a the potential to be costly.
 
