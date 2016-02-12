@@ -10,7 +10,7 @@ permalink: oblique-strategies
 {% for post in site.posts %}
 {% if post.tags contains "oblique strategies" %}
   <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>{{ post.date | date: "%B %d, %Y" }}
+    <a href="{{ post.url }}">{{ post.title }}</a> &nbsp; {{ post.date | date: "%B %d, %Y" }}
   </li>
   {% endif %}
 {% endfor %}
