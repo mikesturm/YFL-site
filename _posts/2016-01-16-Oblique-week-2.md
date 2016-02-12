@@ -2,7 +2,7 @@
 layout: post
 title: Oblique, Week by Week&#58; Week 2
 subtitle: It Is Quite Possible (After All)
-tags: oblique strategies, creativity
+tags: [oblique strategies, creativity]
 published: true
 permalink: oblique-week-by-week-week-2
 comments: true
