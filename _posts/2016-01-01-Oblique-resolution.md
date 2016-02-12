@@ -3,7 +3,7 @@ layout: post
 title: My Resolution for 2106 - Be Oblique
 subtitle:
 categories: []
-tags: [creativity, productivity, art]
+tags: [oblique strategies, creativity, productivity, art]
 description:
 permalink: my-resolution-for-2016-be-oblique
 comments: true

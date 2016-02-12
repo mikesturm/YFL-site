@@ -3,14 +3,14 @@ title: The Oblique Strategies Series
 layout: page
 permalink: oblique-strategies
 ---
-<h1>Oblique: Week by Week</h1>
-<h2>The Oblique Strategies Series</h2>
+
+<p>Here is the complete list of my series "Oblique: Week by Week", which breaks down a randomly picked <i>Oblique Strategy</i>, which were created by Brian Eno and Peter Schmidt. For more information, see the introductory post below. The <i>Oblique Strategies</i> are copyright Brian Eno and Peter Schmidt, all rights reserved.</p>
 
 <ul>
 {% for post in site.posts %}
 {% if post.tags contains "oblique strategies" %}
   <li>
-    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>{{ post.date | date: "%B %d, %Y" }}
   </li>
   {% endif %}
 {% endfor %}
