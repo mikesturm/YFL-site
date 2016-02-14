@@ -21,6 +21,8 @@ I knew it would happen. The first 4 weeks of this *Oblique Strategies* series ha
 
 Yeah. Not much to work with. But with the creative spirit burning in my soul, I trudge onward, delivering what I (foolishly) promised just over a month ago.  So without further ado...
 
+<!--more-->
+
 What comes to mind when you think about the word "decoration"? I'm going to hazard guess and say that what comes to mind is the stuff that receives attention only *after* everything else seems to be in place---in other words, the *inessential*. So, could it help to take your focus off of the so-called important, essential stuff, and merely decorate? Yes, it can.
 
 
