@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oblique, Week by Week&#58; Week 3
-subtitle: Stress and Focus
+subtitle: Don't stress one thing more than another
 tags: [oblique strategies, creativity]
 published: true
 permalink: oblique-week-by-week-week-3
