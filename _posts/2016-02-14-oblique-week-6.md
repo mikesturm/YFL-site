@@ -8,6 +8,7 @@ permalink: oblique-week-by-week-week-6
 comments: true
 ---
 ![through]({{ site.baseurl }}graphics/best-way.png)
+{: style="img-align: center;"}
 
 *This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets them. For background on the series and the strategies, please read [the series introduction]({% post_url 2016-01-01-Oblique-resolution %}).*
 {: style="text-align: center; font-size: small"}
@@ -23,7 +24,7 @@ You can take this as a simple platitude that merely passes along the conventiona
 
 ##  The Art of Craft
 
-[Brian Eno])https://en.wikipedia.org/wiki/Brian_Eno), one of the two mad geniuses behind the *Oblique Strategies* once said "Craft is what enables you to be successful when you're not inspired." The key word here is *craft*. It connotes that *un*sexy work---the drab and sometimes monotonous tasks that you just *get* through, the work that tends to be uniform and codified in your workflow. It's not the spontaneous, exciting work we often associate with creativity and inspiration. But, it is the foundation of creative work. The actual ideation---the *creative* portion of creative work, where one literally *makes* something up, is exhilarating, exciting, it pulls you along on a journey. But as most of us know, it comes in fits and starts---it's not consistent.
+[Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno), one of the two mad geniuses behind the *Oblique Strategies* once said "Craft is what enables you to be successful when you're not inspired." The key word here is *craft*. It connotes that *un*sexy work---the drab and sometimes monotonous tasks that you just *get* through, the work that tends to be uniform and codified in your workflow. It's not the spontaneous, exciting work we often associate with creativity and inspiration. But, it is the foundation of creative work. The actual ideation---the *creative* portion of creative work, where one literally *makes* something up, is exhilarating, exciting, it pulls you along on a journey. But as most of us know, it comes in fits and starts---it's not consistent.
 
 The point is this: your creative process will not always be an exhilarating downhill glide of inspiration. Sometimes it will be drudgery, and sometimes drudgery is what is needed. As [Robert Frost once wrote](http://www.bartleby.com/118/9.html): "the best way out is always through." You have to get used to, and fully accept impermanence. Just like you have experienced bursts of mad genius and easy creative momentum before, and they have passed, so will this lull. But it only passes if you keep moving. Craft---so-called drudgery---is what keeps you moving, keeps you focused on your *thing* (whatever it may be), so that you keep making progress. But make no mistake, it is *work*, and it is difficult---both difficult to do, and difficult to motivate yourself to do.
 
