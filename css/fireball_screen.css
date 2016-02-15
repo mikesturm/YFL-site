@@ -1294,6 +1294,15 @@ a.footnoteBackLink:hover {
 	background-color: rgba(255,255,255,.6);
 }
 
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
 /* added by mike to stylize older and newer */
 
 .pagination {
