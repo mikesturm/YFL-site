@@ -22,6 +22,8 @@ You can hack, disrupt, and innovate all you like, but at some point, those appro
 
 You can take this as a simple platitude that merely passes along the conventional wisdom of the Protestant work ethic, but you do so at your own peril. Unravel it a bit, and you can find a more useful prescription for helping push along your creative endeavors.
 
+<!--more-->
+
 ##  The Art of Craft
 
 [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno), one of the two mad geniuses behind the *Oblique Strategies* once said "Craft is what enables you to be successful when you're not inspired." The key word here is *craft*. It connotes that *un*sexy work---the drab and sometimes monotonous tasks that you just *get* through, the work that tends to be uniform and codified in your workflow. It's not the spontaneous, exciting work we often associate with creativity and inspiration. But, it is the foundation of creative work. The actual ideation---the *creative* portion of creative work, where one literally *makes* something up, is exhilarating, exciting, it pulls you along on a journey. But as most of us know, it comes in fits and starts---it's not consistent.
