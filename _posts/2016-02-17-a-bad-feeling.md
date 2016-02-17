@@ -10,7 +10,7 @@ Gary Vaynerchuk posted [this article on Medium](https://medium.com/@garyvee/why-
 
 In the replies to this story, there was the following reply, which stopped me in my scrolling tracks:
 
-![img]({{ site.baseurl }}graphics/India.jpg)
+![img]({{ site.baseurl }}graphics/India.JPG)
 
 
 It just rubbed me the wrong way. Here is a post about using a new product in what may be a fun new way to create stuff, and here's a guy who jumps in asking if Gary Vaynerchuk knows anyone in India who can transcribe on the cheap. To me, it just smacks of some exploitative BS.
