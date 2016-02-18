@@ -472,7 +472,7 @@ and (max-device-width : 568px) {
 
 
 #Sidebar {
-	position: absolute;
+	position: fixed;
 	top: 191px;
 	/*	margin: 0 0 0 -1rem; /* IE/Win 6 Workaround Hack (per gruber)*/
 	/*
