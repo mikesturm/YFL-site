@@ -32,6 +32,7 @@ layout: default
 <br>
 </div>
 
+{% if post.comments %}
 
 <div id="disqus_thread"></div>
 <script>
@@ -56,6 +57,8 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
+{% endif %}
+
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -71,3 +74,5 @@ s.setAttribute('data-timestamp', +new Date());
     {% endfor %}
   </ul>
 </div>
+
+<script id="dsq-count-scr" src="//mikesturmnet.disqus.com/count.js" async></script>
