@@ -4,7 +4,9 @@ title: Colophon
 permalink: "colophon.html"
 ---
 
-<!--[courtesy of Smithlifescience.com](/graphics/ImaginaryCreature.GIF)-->
+*"A fool thinks himself to be wise, but a wise man knows himself to be a fool."*
+- William Shakespeare -
+
 
 ## Who I am
 
