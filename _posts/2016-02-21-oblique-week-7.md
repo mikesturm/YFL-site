@@ -19,6 +19,8 @@ The strategy for this week seems at first like an odd one. What makes it seem od
 
 >Is there something missing?
 
+<!--more-->
+
 Often times, we find ourselves stuck on a project, and we're just not sure what to do. Of course, that is what the *Oblique Strategies* were made for.  This question, though---asking if something is missing---can be a dangerous one to ask when you're stuck. If you ask it after you've put a bunch of work into what you're doing, it could send you into a frantic search for some illusory philosopher's stone, which will turn your dull, heavy project into the shiny gold you're after.
 
 So be careful with this question. I propose you answer it in two different ways, or phases---one before the other---to get the most out of it.
