@@ -5,11 +5,12 @@ subtitle: Why The Business World Needs Philosophers
 categories: []
 tags: [leadership, business, philosophy]
 description:
-permalink: thunk-in-public-why-good-business-needs-good-philosophers
+permalink: thunk-in-public
 comments: true
 published: true
 ---
 []({{ site.baseurl }}graphics/philosopher.jpg)
+
 > Philosophers have hitherto only **_interpreted_** the world in various ways; the point is to **_change_** it.
 > - Karl Marx -
 
