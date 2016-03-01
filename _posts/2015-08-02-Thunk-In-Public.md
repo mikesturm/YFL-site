@@ -11,8 +11,7 @@ published: true
 ---
 ![]({{ site.baseurl }}graphics/philosopher.jpg)
 
-> Philosophers have hitherto only **_interpreted_** the world in various ways; the point is to **_change_** it.
->
+*"Philosophers have hitherto only **_interpreted_** the world in various ways; the point is to **_change_** it."*  
  - Karl Marx -
 
 When I first elected to take up philosophy as a vocation, I was 19 years old. My reasoning was sound (for a 19-year-old): I loved reading and writing about philosophy, and I aimed to make doing it my career. The problem is this: with few exceptions, the only way to do this is to stay in the academy — teaching the subject as a professor, and performing the requisite academic duties as well. When I was 19 I was quite cynical about the business world, so the prospect of segregating myself from it seemed perfect. I craved the insular environment of the academic setting, and I looked forward to spending my entire working life in a scholastic Shangri-La.
@@ -37,6 +36,7 @@ Philosophical training allows for a certain kind of speculation (what Alfred Nor
 It would seem, then, that those who are heavily steeped in philosophical practice in the academy are more likely to employ that kind of foundation-free speculation — the kind that takes no idea or limit as set in stone. This is where innovation is most likely to come from.
 
 Outspoken philosopher Samir Chopra recognizes this as:  
+
 > […the inability of philosophizing to limit itself, for these boundary policing acts are grounded in philosophical maneuvers and that which requires such an engagement must be philosophical in some shape or form. The act of claiming to be–or not–philosophy is a philosophical claim, and must be dealt with as such. This is why philosophy remains indispensable to science, for instance, even when its practitioners reject philosophical influence or provenance.](http://samirchopra.com/2015/07/07/philosophy-pseudo-philosophy-and-claiming-to-be-philosophy/)  
 
 Descriptions like this of philosophy abound. If anything characterizes philosophy as a discipline and a practice, it is the refusal to accept dogmatic thinking — to accept what other disciplines assume to be true. There is no agreed upon approach to coming up with a theory in philosophy, but there is an agreed upon reception of any theory: ask questions and attempt to falsify a given theory. When done properly, this isn’t antagonistic in nature, merely an attempt to make sure that any theory offered up is backed by sound reasoning.
