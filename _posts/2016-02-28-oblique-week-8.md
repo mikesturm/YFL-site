@@ -19,6 +19,8 @@ Close your eyes for a few seconds. You don't need to go find a quiet place, in f
 
 >Listen to the quiet voice.
 
+<!--more-->
+
 I promise, I will try to make this piece as un-self-helpy and un-fluffy as I possibly can. But there is an element of this strategy that is about getting in touch with your deeper self. You can say you don't have time for it, and on a superficial level, you're right; none of us do---we've filled our schedules to the brim. We keep filling them, too; our cups overfloweth with things to do.
 
 But at a deeper level, we have *plenty* of time to get in touch with our deeper selves. We have just *chosen* to fill that time with other things. The tragic irony is that *so many* of these other things with which we have filled our time would be much less taxing, or perhaps not even choices we'd have made, if we were really in touch with our deeper selves.
