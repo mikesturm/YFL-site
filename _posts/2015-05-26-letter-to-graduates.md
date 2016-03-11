@@ -2,7 +2,6 @@
 layout: post
 title: An Open Letter to This Year's High School Graduates
 subtitle:
-categories: []
 tags: [education, careers, advice]
 description:
 published: true
@@ -10,7 +9,7 @@ permalink: testing
 comments: true
 ---
 
-![](https://cdn-images-1.medium.com/freeze/max/30/1*FGmJ872TPC75zr3JRIkg_g.jpeg?q=20)![](https://cdn-images-1.medium.com/max/800/1*FGmJ872TPC75zr3JRIkg_g.jpeg)
+![](https://cdn-images-1.medium.com/max/800/1*FGmJ872TPC75zr3JRIkg_g.jpeg)
 
 Image courtesy of [distancelearning.org](http://www.distancelearning.org/)
 {: style="text-align: center font-size:x-small;" }
