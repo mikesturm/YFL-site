@@ -11,7 +11,7 @@ published: true
 ---
 ![]({{ site.baseurl }}graphics/philosopher.jpg)
 
-*"Philosophers have hitherto only *interpreted* the world in various ways; the point is to *change* it."*  
+*"Philosophers have hitherto only interpreted the world in various ways; the point is to change it."* 
  - Karl Marx -
 
 When I first elected to take up philosophy as a vocation, I was 19 years old. My reasoning was sound (for a 19-year-old): I loved reading and writing about philosophy, and I aimed to make doing it my career. The problem is this: with few exceptions, the only way to do this is to stay in the academy — teaching the subject as a professor, and performing the requisite academic duties as well. When I was 19 I was quite cynical about the business world, so the prospect of segregating myself from it seemed perfect. I craved the insular environment of the academic setting, and I looked forward to spending my entire working life in a scholastic Shangri-La.
