@@ -17,6 +17,8 @@ I also found the below chart interesting:
 Image credit: Quartz
 {: style="text-align: center; font-size: small"}
 
+<!--more-->
+
 You can see the real income of the bottom 90% of people in the U.S. rising more quickly in the previous 2 eras, compared to the top 10%. The top 10% have again made gains, but now there are *losses* for those in the bottom 90%. So here we have a regressive redistribution---the business we're now doing is taking money from the poor and giving it to the rich. Is that an oversimplification? Yes. But the point still stands that however much there is to be gained, it seems that the poor are not gaining it anymore. I can't imagine a reduction in people buying homes does anything but make that worse.
 
 My point is that whereas before, the answer might have been to produce more stuff, to kick-start the economy, doing that seems like it would just put more money into the hands of the already wealthy---who are already maintaining their wealth via dividends and other rent-seeking income plans (i.e., not investing money back down to people who don't already have much).

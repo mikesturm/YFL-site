@@ -21,6 +21,8 @@ This week's strategy is dead simple, but extremely difficult to implement.
 
 That's it; the folksiest pearl of conventional wisdom---just carry on. Again, *so* simple, but perhaps the most difficult advice to follow. I have found myself refusing to follow it, even when I know it is the exact thing that I need to do. But why is that? Why is it so hard to just keep going---to carry on? Allow me to offer up two possible reasons:
 
+<!--more-->
+
 1. **We're doing too much---we just don't know it**
 Often times, when we are doing creative work, we are doing too many things at once. We have stopped simply *creating* and letting things *flow* through us, and have begun analyzing, criticizing, and planning---all at the same time as we're trying to make something. These are all different job descriptions, with different workflows, and they get in the way of one another. So when we do these myriad other things---at many times unknowingly---we exhaust ourselves. We scorch the earth behind us, and make it that much harder to put out work later on.
 
