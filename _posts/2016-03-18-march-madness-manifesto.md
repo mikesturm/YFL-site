@@ -10,7 +10,7 @@ comments: true
 
 ![]({{ site.baseurl }}graphics/madness.jpg)
 Credit: Christopher Hanewinckel-USA TODAY Sports
-{: style="text-align: center;"}
+{: style="text-align: center; font-size: small"}
 
 It is officially my favorite time of the year: March Madness---the NCAA Men's Basketball Tournament. Ever since I was a young boy of single-digit age, I have loved March Madness. It is everything that makes sports great, all in one crazy, two week event. 68 enter, 1 leaves. It is crazy until the end. But as with so many things I love with feverish zeal, not everyone is convinced. So here is my official manifesto: The March Madness Manifesto. 
 
