@@ -8,7 +8,7 @@ permalink: march-madness-manifesto
 comments: true
 ---
 
-![]({{ site.baseurl }}graphic/madness.jpg)
+![]({{ site.baseurl }}graphics/madness.jpg)
 Credit: Christopher Hanewinckel-USA TODAY Sports
 {: style="text-align: center;"}
 
