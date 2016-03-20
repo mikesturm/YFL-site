@@ -27,6 +27,8 @@ If you devote a little bit of thought to it, this makes a lot of sense. If you d
 >
 Even though their influence informs every decision we make on the most tactical level, thinking about priorities happens at a strategic, "why am I here?" level.[^2]
 
+<!--more-->
+
 [^2]: [http://www.43folders.com/2009/04/28/priorities](http://www.43folders.com/2009/04/28/priorities)
 
 This "why am I here?" level is the important level; it's where all the importance that any projects and tasks have, come from. And yet, we forget those important things constantly. We take our eyes off of the prize---so to speak. But it is easy to understand why that is. The prize is not moving; it's not buzzing in our ear or tugging at our pantleg.  It is distant and unmoving, no matter how many times we pivot or change direction.
