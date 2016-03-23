@@ -4,14 +4,14 @@ layout: page
 permalink: oblique-strategies
 ---
 
-<p>Here is the complete list of my series "Oblique: Week by Week", which breaks down a randomly picked <i>Oblique Strategy</i>, which were created by Brian Eno and Peter Schmidt. For more information, see the introductory post below. The <i>Oblique Strategies</i> are copyright Brian Eno and Peter Schmidt, all rights reserved.</p>
+<p>Here is the complete list of my series "Oblique: Week by Week", which breaks down a randomly picked <i>Oblique Strategy</i>---a concept created by Brian Eno and Peter Schmidt. The strategies were created as a way to help those who create get better a doing it---largely by aiding in overcoming creative blocks. My aim with this project is to do the same---breaking down what I take each of the aphorisms to mean. My hope is that I can help a few people do better creative work in the process. For more information, see the <a href="{% post_url 2016-01-01-Oblique-resolution %}">introductory post</a> . The <i>Oblique Strategies</i> are copyright Brian Eno and Peter Schmidt, all rights reserved.</p>
 
 <ul>
 {% for post in site.posts %}
 {% if post.tags contains "oblique strategies" %}
   <li>
-    <b><a href="{{ post.url }}">{{ post.title }}</a></b> - 
-<i>{{ post.subtitle }}</i>  
+    <b><a href="{{ post.url }}">{{ post.title }}</a></b> -
+<i>{{ post.subtitle }}</i>
 <br>
 {{ post.date | date: "%B %d, %Y" }}
   </li>
