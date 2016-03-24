@@ -13,11 +13,21 @@ Below is a list of literature---both digital and paper-based---that will do two 
 by David Allen
 :   There are few books that I have read that I can honestly say changed the way I think and act on a daily basis. This is one of them. From the day I began reading the book, I became enthused about actually keeping thorough track of *everything* that I want to do, and about striving to have an utterly empty mind. I am *far* from being adept at using the system---after all, I still struggle getting myself to do an actual weekly review---but I know enough about the system to know that once I get my ass in full gear using it, the returns will be realized.
 
+## [A Lecture on Creativity (transcription on Genius.com)](http://genius.com/5026043)
+by John Cleese
+:   The video of this lecture---given by the *Monty Python* co-founder, actor, and creative genius John Cleese---is an internet classic by now. It's a really great foray into some of the more academic work done on creative thinking and actually *creating* cool stuff, but presented by a guy who clearly knows how to engage an audience. The particular link I provided above is an annotated transcript on [genius.com](http://genius.com) (love that site!). Take the time to read it, if you can.
+
 ## [The Dhammapada](http://www.amazon.com/Dhammapada-Classics-Indian-Spirituality/dp/1586380206/ref=asap_bc?ie=UTF8)
 Translation by Eknath Easwaran
 :   *The Dahammapada* is one small book of the *many* books of the Buddhist canon---otherwise known as the Tripitaka. It is considered by many to be the best single source to capture the essence of Buddhism---regardless of the particular flavor of Buddhism that one may prefer. The translation listed here is the one (of the many I have read) that captures what I believe to be the spirit of the work the best.
 
 :   The book is listed here because it is---in my estimation---a powerful tome that transcends the particular spiritual community that has adopted it. I don't recommend this book as a prescription of faith; there is actually little to no faith involved in Buddhism anyway. I list the book here because it is rife with very good general advice and contains very little gobbledy-gook, if you will.
+
+## [When Breath Becomes Air](http://www.amazon.com/gp/product/081298840X/ref=x_gr_w_bb?ie=UTF8&tag=httpwwwgoodco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=081298840X&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+By Paul Kalanithi
+:   Dr. Kalanithi was a neurosurgeon at Stanford, but was steeped in all the things I hold dear: philosophy, classics, religious studies, art, etc. This book is a memoir about his life as a thinker, a doctor, a husband, and a father, up until his death from stage IV cancer. It’s a really great read---filled with great musings on the bigger questions in life, but also warm accounts of lessons learned by actually being there as people died.
+
+:   While Kalanithi’s account of his own journey toward death is moving on its own, my usually stone cold heart was nearly melted by the epilogue, which his wife, Lucy, wrote after his death. The epilogue is an account of Paul’s death, and how Lucy experienced it. It is gripping, but told in such a way that you really feel what it must feel like to be in your final moments. It’s a fantastic book.
 
 ## [The Tao Te Ching](http://www.amazon.com/Tao-Te-Ching-Lao-Tsu/dp/0307949303/ref=dp_ob_image_bk)
 by Lao Tzu[^1]
