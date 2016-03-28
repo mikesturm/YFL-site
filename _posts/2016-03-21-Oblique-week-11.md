@@ -25,6 +25,8 @@ In my mind, there are three different variations of this question. Each variatio
 2. What wouldn't you do because you think it's been done already?
 3. What wouldn't you do because you're scared it's too daunting?**
 
+<!--more-->
+
 Here's an idea: make a list with those three questions, and **answer them**. Seriously. Just write down the first thing or two you think of for each question. Then, ask the obvious follow up questions:
 
 
