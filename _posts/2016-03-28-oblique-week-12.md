@@ -23,6 +23,8 @@ There are two ways of interpreting *order*:
 1. order of operations
 2. order vs disorder of your conditions
 
+<!--more-->
+
 
 ## The Order of Operations
 

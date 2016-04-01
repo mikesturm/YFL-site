@@ -7,7 +7,7 @@ published: true
 permalink: non-douchey-self-help
 comments: true
 ---
-![what, me hammock?]({{ site.baseurl }}graphics/palmtrees.jpg)
+![what me hammock?]({{ site.baseurl }}graphics/palmtrees.JPG)
 
 
 The internet is rife with self-help "gurus"---either self-proclaimed or being heavily evangelized by others. You can't swing the digital equivalent of a dead cat on sites like Medium without hitting some listicle about the *x* things that successful people do that *you* need to do. And of course, if you even try to read the article, there's an e-book or course you can buy.
