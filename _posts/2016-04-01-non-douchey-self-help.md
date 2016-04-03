@@ -20,6 +20,8 @@ So, here's a few things that you can do, if you're trying to be a non-douchey se
 
 It's very *very* difficult to be successful because it entails two other very difficult things: finding a goal that will fulfill you and achieving it. Those are the most difficult things to do, and most people spend their entire lives trying to do one or both of those things, and never do them. So if you *really* want to help people to help themselves become successful, don't try to convince them that it's easy to be successful. At best you just perpetuate many peoples' cycles of self-doubt. At worst, you make people feel inadequate and idiotic for just not *getting* the "simple" "secrets" to success.
 
+<!--more-->
+
 I'm guessing that if you are successful---in the sense of finding a fulfilling dream and seeing it come true---you know damn well that it was difficult. I think you also know that no listicle you read or talk you saw was the panacea that launched you headlong into living the dream. Only one person's life was *really* transformed by *The 4-hour Work-Week*, and that person is Tim Ferriss.
 
 
