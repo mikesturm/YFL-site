@@ -39,7 +39,7 @@ After that long intro, this week's strategy:
 
 My soliloquy above was an attempt to show exactly how a blank is *already* valuable. It's valuable because it puts you face to face with your potential as a creator---your nearly unlimited potential.
 
-Now obviously, you probably can't just act as if a blank document, presentation, recording, or canvas is your newest work---that's been done in pretty much every medium. But I think the point here is that there are two areas of focus when you're working on creative stuff: the frame and then piece. This strategy urges you to focus on the frame---and make it *exquisite*.
+Now obviously, you probably can't just act as if a blank document, presentation, recording, or canvas is your newest work---that's been done in pretty much every medium. But I think the point here is that there are two areas of focus when you're working on creative stuff: the frame and the piece itself. This strategy urges you to focus on the frame---and make it *exquisite*.
 
 A frame is a wide concept, meaning that it can be so many things when it comes to creative work. The frame is the presentation---that which focuses people's minds on what's being presented. In a way, how your work is framed is tremendously powerful---it's a chance for you as the creator to further express what you're trying to express by almost *making* people look at your work in a certain way, from a certain angle, in a certain order.
 
