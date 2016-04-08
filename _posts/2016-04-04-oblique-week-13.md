@@ -24,6 +24,8 @@ That slow pre-build-up gives me a certain feeling that is hard to describe. I wo
 
 I think that feeling is magical. Let me say that in a more useful way. I think that feeling wields a lot of power. To test this out, try a little exercise: open up a blank document, take out a fresh blank piece of paper, a white primed canvas, or what have you. Now meditate on the following:
 
+<!--more-->
+
 - This blank thing *could* be anything. The possibilities are endless. It  could be something that's been done before, or something that will blow the lid off of the world. Isn't that pretty damn wonderful?
 - It is *not* a work in progress, with all of the burdens, commitments, and anxiety of expectation attached. It is all possibilities; none have been eliminated---all are in play. **You can go anywhere from here.**
 - How about basking in that wonder, for just a little bit longer than you're used to?
