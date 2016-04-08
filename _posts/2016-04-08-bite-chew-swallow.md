@@ -34,8 +34,7 @@ This is the part that should take the least amount of time, but *only* if you ha
 **Verifying** that you really do know it  
 :   The best way to do this is by testing yourself, which I've found is most effectively done by having to teach or present it to someone else that doesn't know about the subject at all. I taught philosophy at the community college level for over 4 years, and I learned more about philosophy doing that, than I estimate I learned in my entire time in graduate school.
 
-:   It's well known that having to teach others something forces you to get a better grip on things. You may think you know something inside out, but when you have to explain it to others, you realized that you don't. This is especially true when you have to teach things to people who don't know much (or anything) about your subject. A favorite quote of mine, attributed to Albert Einstein, captures this truth perfectly:
->If you can't explain it simply, you don't understand it well enough.
+:   It's well known that having to teach others something forces you to get a better grip on things. You may think you know something inside out, but when you have to explain it to others, you realized that you don't. This is especially true when you have to teach things to people who don't know much (or anything) about your subject. A favorite quote of mine, attributed to Albert Einstein, captures this truth perfectly: **"If you can't explain it simply, you don't understand it well enough."**
 
 
 **Organizing** the information  
