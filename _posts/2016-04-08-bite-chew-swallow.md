@@ -7,7 +7,7 @@ description:
 published: false
 comments: true
 ---
-
+![yum]({{ site.baseurl }}graphics/eating.jpg)
 
 Nearly every day, I find myself overwhelmed by the sheer volume of information to which I, as a humble non-tech-sector layperson, have access. The internet, for all the faults that it may bring out or reveal in us humans,  never ceases to  impresses me with its ability to provide large amounts of fertilizer for knowledge.
 
@@ -39,3 +39,5 @@ This is the part that should take the least amount of time, but *only* if you ha
 
 **Organizing** the information  
 :   This part involves making the information readily accessible, and ready for updates, emendations, further analysis, and other reviews. It is also a way to ensure that this chunk of new knowledge finds its way into the web of your current knowledge as a *connected piece*. If you can't connect what you're now learning to what you already know, the chances of you really grabbing a hold of it go down dramatically.
+
+Once you've bitten, chewed, and swallowed your information diet, chances are, you are more likely to have increased your knowledge base. I've found it helpful to remind myself of this process as I try to gain more knowledge. It is, after all, power.
