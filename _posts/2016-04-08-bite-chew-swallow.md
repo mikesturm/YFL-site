@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Learning is Like Eating&#58 Bite, Chew, Swallow
+title: Learn Like You Eat&#58 Bite, Chew, Swallow
 categories: []
 tags: [learning]
 description:
-published: false
+published: true
+permalink: bite-chew-swallow
 comments: true
 ---
 ![yum]({{ site.baseurl }}graphics/eating.jpg)
