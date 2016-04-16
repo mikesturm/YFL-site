@@ -21,6 +21,8 @@ If you're reading an article like this, I probably don't have to remind you that
 
 Just breathe deeply---*try it*. Feel that? You will likely feel a wave of something like relaxation come over you---perhaps just for a second or two. It is the quickest and most accessible way to just reset yourself. Especially when your mind has become like a sports car in mud---engine going at several thousand RPMs, wheels spinning in the mud, going nowhere.
 
+<!--more-->
+
 This is no secret. People have been doing it for centuries---*millennia* even. Thousands of articles have been written about the simple act of consciously breathing. It's a real thing.
 
 And why not? Breathing is the most fundamental expression of yourself. It is the quickest, most accessible way to re-express, re-assert what you are---here and now. It is, in many ways, the fundamental act of simultaneous *destruction* and *creation*. You are---in the act of breathing in and out---destroying what you were, and creating what you are now. Wait for a second, and understand what that means.

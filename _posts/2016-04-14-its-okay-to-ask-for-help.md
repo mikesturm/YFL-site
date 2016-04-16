@@ -16,6 +16,8 @@ I am a member of a [leadership development group](http://www.rockfordchamber.com
 
 A few weeks ago, we visited a food bank that serves about 15 counties in our area---meaning somewhere over 1 million people. The fellow representing the food bank revealed to us something very stunning. He said that where the food bank falls short is not where most people think it does. They have plenty of food---*plenty*. In fact, they're throwing away tons of food (literal tons) each year. They have plenty of volunteers to help process food---in most times of the year. The real problem the food bank faces, he said, is that tens of thousands of people in poverty are *not* using the food bank. For whatever reason, people are just not showing up to the pantries to get food. They don't come out to get food from the food trucks that the pantries support regularly. They just choose not to ask for help.
 
+<!--more-->
+
 
 ## Society Has Made Us Afraid of Help
 
