@@ -23,8 +23,8 @@ I write about a lot of things, but let's face it, most of it is self-serving. Be
 * [Outline Your Life, or Run the Risk of Failing to Live it]({{ site.baseurl }}outline-your-life-or-run-the-risk-of-failing-to-live-it)
 * [The *Real* Secret to Success]({{ site.baseurl }}the-one-simple-trick-that-will-help-you-succeed-stop-thinking-theres-one-simple-trick)
 * [Why I Chose to Give Up on Academia]({{ site.baseurl }}why-i-chose-to-give-up-on-academia)
-* [Our Dangerous Obsession With (Life)Hacking]({{ site.baseurl }our-dangerous-obsession-with-hacking)
-* [The One Simple Trick that Will Help You Succeed- Stop Think There's One Simple Trick]({{ site.baseurl }the-one-simple-trick-that-will-help-you-succeed-stop-thinking-theres-one-simple-trick)
+* [Our Dangerous Obsession With (Life)Hacking]({{ site.baseurl }}our-dangerous-obsession-with-hacking)
+* [The One Simple Trick that Will Help You Succeed- Stop Think There's One Simple Trick]({{ site.baseurl }}the-one-simple-trick-that-will-help-you-succeed-stop-thinking-theres-one-simple-trick)
 
 If you like these writings, I encourage you to follow me on twitter [@aperfectsturm](https://twitter.com/{{ site.author.twitter }}).
 
