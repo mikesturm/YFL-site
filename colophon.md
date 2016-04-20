@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: "colophon.html"
+permalink: "Colophon.html"
 ---
 
 *"A fool thinks himself to be wise, but a wise man knows himself to be a fool."*
