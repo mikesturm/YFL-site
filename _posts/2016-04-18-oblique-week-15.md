@@ -23,6 +23,8 @@ Next comes the polishing, the refinement, the pursuit of the perfect. The pursui
 
 Asking this question alone is not really a strategy. Rather, asking it in a certain way is---the right way, and knowing how to go about answering it.
 
+<!--more-->
+
 
 ## Ask the Same Question Differently
 
