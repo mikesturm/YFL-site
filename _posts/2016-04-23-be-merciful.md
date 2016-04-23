@@ -8,9 +8,9 @@ permalink: be-merciful
 comments: true
 ---
 
-![have mercy]({{ site.baseurl }}graphics/sacred-heart.jpg)
-
+![have mercy]({{ site.baseurl }}graphics/sacred-heart.jpg)  
 credit: Jeff Koons via Flickr
+{: style="text-align: center; font-size: small"}
 
 I grew up Going to Catholic school, despite the fact that my parents were not very religious. I did the altar boy thing, I went to confession, I learned the rosary prayers---the whole shootin' match. Then, in high school, I got heavy into philosophy, and it was all over. I abandoned the metaphysically troublesome belief in a personal god, and went down a path motivated primarily by logic and reason.
 
