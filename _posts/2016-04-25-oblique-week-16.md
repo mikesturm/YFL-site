@@ -4,7 +4,7 @@ title: Oblique, Week by Week&#58; Week 16
 subtitle: How Would You Have Done it?
 tags: [oblique strategies, creativity, work]
 published: true
-permalink: oblique-week-by-week-week-15
+permalink: oblique-week-by-week-week-16
 comments: true
 ---
 ![tear it down]({{ site.baseurl }}graphics/destruction.jpg)
