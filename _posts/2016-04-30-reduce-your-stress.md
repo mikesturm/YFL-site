@@ -11,9 +11,11 @@ comments: true
 
 I'm guessing that your day is filled with stressors---whether physical or virtual. People come to see you, call you, email or message you, and they want something. They want answers. They want updates. They need to know the next action, or need you take the next action---*now*. If this isn't the majority of your week days, then count yourself lucky, and skip the rest of this article.
 
-For the rest of you, you've got plenty of stress being heaped upon you by others. You watch the emails pile up in your inbox, you look at your calendar filled with meetings---most of which you probably haven't prepared for as much as you'd have liked to. You hear the ping of your IM app. Your shoulders are now pulled up to your ears by your tensed muscles. You're under stress, my friend. You've got too much to do, and not enough time to do it. You want to know how to do it, how to do it all more quickly, and more efficiently. That's where the productivity writing racket comes in. They've got the secrets, they'll show you how to more efficiently meet all the demands that are being made of you. 
+For the rest of you, you've got plenty of stress being heaped upon you by others. You watch the emails pile up in your inbox, you look at your calendar filled with meetings---most of which you probably haven't prepared for as much as you'd have liked to. You hear the ping of your IM app. Your shoulders are now pulled up to your ears by your tensed muscles. You're under stress, my friend. You've got too much to do, and not enough time to do it. You want to know how to do it, how to do it all more quickly, and more efficiently. That's where the productivity writing racket comes in. They've got the secrets, they'll show you how to more efficiently meet all the demands that are being made of you.
 
-But that's not what you need. In fact, that's the opposite of what you need. 
+But that's not what you need. In fact, that's the opposite of what you need.
+
+<!--more-->
 
 You don't need to do all the the things that are thrown at you. In fact, you don't need to do *most* of them. All you have to do is negotiate. You can negotiate away most of the stress you feel. You just have to do it artfully. 
 
@@ -32,7 +34,7 @@ Think about the emails that are currently in your inbox, and the projects you ha
 
 After a project or email has been sitting for a few days or so, someone emails you and asks you what the status is on it. You tense up. *Damn, now I need to take care of this thing!* you think to yourself.
 
-Not quite. 
+Not quite.
 
 You obviously de-prioritized this thing, or deemed that it wasn't clear. So don't hide that, bring that up to those who tossed it at you, but do it tactfully.
 
@@ -40,17 +42,17 @@ All you really have to do when someone throws a project or task at you is two th
 
 First, you acknowledge that you've gotten the email, the message, or you get that the person is asking you to do something. There are myriad ways to do this, but the goal is simply to acknowledge.
 
-Next, you clarify the what and why. If someone wants you to do something---boss or peer---there are 2 possibilities: 
+Next, you clarify the what and why. If someone wants you to do something---boss or peer---there are 2 possibilities:
 - They know exactly what they want back from you, and why they want it. They've given it appropriate thought.
 - They aren't really sure what they want back from you, they just had a vague idea of a "nice to have" because their boss flipped out in a meeting, and they're just reacting. They really haven't thought it through.
 
 Whichever of the above is the case, asking them what they want and why they want it is going to do one of two things for you. Either your questions will serve to bring out a clear goal of the project, as well as detail about the work to be done. Or your questions will serve to show that perhaps this project doesn't need to be done, doesn't need to be done *now*, doesn't need to be done *by you*, or doesn't need to have as wide a scope as originally thought. In any of the above scenarios, you win, and it took just a few pointed and tactfully asked questions.
 
-A knock-on benefit of this practice is that people will hesitate to give you work that is (a) not well-defined, or (b) likely unnecessary in the grand scheme of things. In the case of your boss, you could indirectly teach them to do the same thing to *their* bosses, which can have the great knock-on effect of keeping your company's vision clear and pointed. All of this applies equally well to your personal life. 
+A knock-on benefit of this practice is that people will hesitate to give you work that is (a) not well-defined, or (b) likely unnecessary in the grand scheme of things. In the case of your boss, you could indirectly teach them to do the same thing to *their* bosses, which can have the great knock-on effect of keeping your company's vision clear and pointed. All of this applies equally well to your personal life.
 
 
 ## The Takeaway
 
-Remember, in many cases, in the most effective negotiations, only one party will ever know a negotiation took place. To an outsider, it would barely register as a negotiation. Honey, not vinegar, you know? Be cordial, be cooperative in spirit, and mind the other party's mood. 
+Remember, in many cases, in the most effective negotiations, only one party will ever know a negotiation took place. To an outsider, it would barely register as a negotiation. Honey, not vinegar, you know? Be cordial, be cooperative in spirit, and mind the other party's mood.
 
-So here's the tldr: You can drastically reduce your stress by reducing the amount of things you're expected to do. You can do this by negotiating your way out of them. You do that by quickly acknowledging and clarifying---asking questions of *why* and *what*. Why are we choosing to do this? What exactly is the scope of what we're looking to do? The benefits are numerous and sustained. 
+So here's the tldr: You can drastically reduce your stress by reducing the amount of things you're expected to do. You can do this by negotiating your way out of them. You do that by quickly acknowledging and clarifying---asking questions of *why* and *what*. Why are we choosing to do this? What exactly is the scope of what we're looking to do? The benefits are numerous and sustained.
