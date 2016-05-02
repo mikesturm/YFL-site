@@ -7,7 +7,7 @@ published: true
 permalink: oblique-week-by-week-week-17
 comments: true
 ---
-![Onward!]({{ site.baseurl }}graphics/achilles.jpg)
+![Onward!]({{ site.baseurl }}graphics/Achilles.jpg)
 
 *This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and analyzes and interprets it. For background on the series and the strategies, please read [the series introduction]({% post_url 2016-01-01-Oblique-resolution %}).*
 {: style="text-align: center; font-size: small"}
