@@ -29,6 +29,7 @@ In either case, the failure won't bother you.
 But courage requires a little wisdom, lest we act merely out of unchecked passion. That is more reflex than action---hardly laudable and not at all brave. Here's Aristotle:
 
 > Thus they are not brave because, driven by pain and passion, they rush on danger without foreseeing any of the perils, since at that rate even asses would be brave when they are hungry. [^1]
+
 [^1]: *Nicomachean Ethics, Book III; Sec. 8*
 
 So *real* courage requires both knowledge---of what the risks are and what the rewards can be---and passion---for the path you've chosen to pursue. There is no courage in choosing not to think deeply about what you're trying to do---in just making something hastily and tossing it out to the world. Likewise, there is no courage in the tedious and endless work of "perfecting" something, always fearful of letting it go, because it may not be an overnight success.
