@@ -9,15 +9,17 @@ published: true
 
 I don't tend to write much in the way of topical material here. Don't get me wrong; I think about current events a lot. I stay aware of unfolding stories that seem to be of import, and I keep them on my mind. I try to connect the dots, to identify trends and longer storylines, in an effort to gain not just knowledge of the bare facts, but wisdom---the deeper meaning of the stories.
 
-This week, something happened that made me feel a bit fearful, and uncertain---a bad combination to be sure. This something was Donald Trump seemingly sealing up the Republican nomination for President of the United States. 
+This week, something happened that made me feel a bit fearful, and uncertain---a bad combination to be sure. This something was Donald Trump seemingly sealing up the Republican nomination for President of the United States.
 
 I'm not going to engage here in speculation and forecasting. I'm not going to talk about whether or not there will be a contested convention, and Trump will not end up becoming the nominee. I won't even dig into [the weird and counter-intuitive reasons why some small sub-sects of his voters support him.](http://www.theatlantic.com/politics/archive/2015/08/donald-trump-voters/401408/) I'm not smart enough to do any of that. I'm merely going to explore my worry about two things: what Trump's success says about the people of the United States, and what effect his success has had on us.
+
+<!--more-->
 
 ## What Trump's Success Says About Americans
 
 When you look in a mirror---unless it's dirty or contorted---it will reflect back what's there, mostly as it is. So when we look in the mirror that is this presidential primary, do we shrug off the repulsive reflection we see by saying that clearly something is off---the reflection is not accurate? Or do we assume that we're seeing ourselves just as we are, and attempt to find out just what has happened?
 
-I ask because the reflection I see is a bunch of bad things: hubris, intellectual laziness, misogyny, xenophobia, close-mindedness, and hurtful speech. I'm not even going to touch Trump's stances on particular issues. You can easily find such analysis. Those traits I list are prevalent in nearly every one of his public speeches---regardless of what particular issue he's addressing. He just oozes those traits, which means that those who have voted for him and will vote for him are, all things considered, *okay* with that. 
+I ask because the reflection I see is a bunch of bad things: hubris, intellectual laziness, misogyny, xenophobia, close-mindedness, and hurtful speech. I'm not even going to touch Trump's stances on particular issues. You can easily find such analysis. Those traits I list are prevalent in nearly every one of his public speeches---regardless of what particular issue he's addressing. He just oozes those traits, which means that those who have voted for him and will vote for him are, all things considered, *okay* with that.
 
 
 ## Whether Trump Wins or Not, the Damage Has Been Done

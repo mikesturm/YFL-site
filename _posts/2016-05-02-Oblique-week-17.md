@@ -19,6 +19,8 @@ If there are such things as creative virtues, certainly chief among them is cour
 
 Aristotle thought a lot about courage---about virtues as a whole, actually. His big idea on the subject is that every virtue is really just a middle ground between two extreme traits. Courage then, is the middle-ground between being cowardly and being rash or foolhardy. When you shy away from every challenge, every peril, you are cowardly. When you throw yourself at everything with abandon, you're rash---acting stupidly.
 
+<!--more-->
+
 
 ## Courage is Not Passion
 
