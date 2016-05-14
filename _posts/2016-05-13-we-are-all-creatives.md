@@ -7,7 +7,7 @@ published: true
 permalink: we-are-all-creatives
 comments: true
 ---
-![small worlds I]({{ site.baseurl }}graphics/kandinsky.jpg
+![small worlds I]({{ site.baseurl }}graphics/kandinsky.jpg)
 
 Kandinsky, *Small Worlds I*, 1922
 {: style="text-align: center; font-size: small"}
