@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Oblique, Week by Week&#58; Week 19
@@ -8,6 +7,7 @@ published: true
 permalink: oblique-week-by-week-week-19
 comments: true
 ---
+
 ![blow your horn]({{ site.baseurl }}graphics/horn.jpg)
 
 *This is part of a series, running through 2016, in which your faithful fool randomly selects one of Eno and Schmidt's "Oblique Strategies" and writes a meditation upon it. For background on the series and the strategies, please read [the series introduction]({% post_url 2016-01-01-Oblique-resolution %}). The Oblique Strategies are copyright Brian Eno and Peter Schmidt*
