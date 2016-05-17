@@ -28,6 +28,8 @@ With that out of the way, you can now walk amongst the giants of your field with
 
 >how would YOU have done it?
 
+<!--more-->
+
 Now you've begun the stage of iconoclasm---taking apart the greats. Killing your idols.
 
 There is a favorite quote of mine about this subject from Zen mythology, attributed to master Linji:

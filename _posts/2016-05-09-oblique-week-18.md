@@ -19,6 +19,8 @@ When someone steals something from you, especially something valuable, how does 
 
 Surely, you would do all you could to prevent future theft, right? You would lock your doors. You may set up an alarm system. You may ask your neighbor or a friend to watch over your house when you're away. The point is, you don't want to lose the things you value, and so you safeguard them. It's about more than the possessions, though. You don't want people intruding upon your sanctuary---your private space. It is as basic an instinct as there is.
 
+<!--more-->
+
 But I have news for you, friends. You've left yourself open for theft, and you are being stolen from every day. You're being robbed of two very valuable things: your time and attention.[^1] Though I think that nearly everyone believes that these things are important, we don't often act that way. I allow any old thing to have my time and attention---at least for a few minutes. I guard them poorly.
 
 [^1]: For a really awesome talk on time and attention, and how valuable they are, check out [this talk](http://www.merlinmann.com/media/tag/time-attention) by Merlin Mann.
