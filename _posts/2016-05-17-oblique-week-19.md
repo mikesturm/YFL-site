@@ -20,6 +20,8 @@ About 14 years ago, as a fresh-faced undergraduate, I stumbled across the [*Tao 
 
 One of the themes in the book is one that actually isn't unique to either it or the Eastern philosophical tradition: things are not what they appear to be. There is a deeper aspect of the reality we swim through---meaning beyond the hollow descriptions that we so clumsily affix to the world we know. So the labels and roles that people self-apply and that others apply to them, are likely not the real story. More interestingly, the instruments we use to do our work---whatever that work may be---are also more than they appear to be.
 
+<!--more-->
+
 
 ## The Instruments You Use
 
