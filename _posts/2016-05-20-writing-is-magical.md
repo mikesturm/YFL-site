@@ -19,6 +19,8 @@ What do I mean when I say writing is magical? I really do mean *magical*.
 
 The second definition---specifically the portion about being removed from everyday life---is what I mean when I say that writing is *magical*. When done correctly (by which I don't mean done *well*), writing can transform your thoughts and feelings into something more---something powerful. That's the magic.
 
+<!--mores-->
+
 
 ## Writing Reveals Meaning
 
