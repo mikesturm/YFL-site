@@ -7,7 +7,7 @@ published: true
 permalink: I-gave-myself-10-mins
 comments: true
 ---
-![tick tock!]({{ site.baseurl }}graphics/10-mins.jpg
+![tick tock!]({{ site.baseurl }}graphics/10-mins.jpg)
 
 credit: pexels.com
 {: style="text-align: center; font-size: small"}
