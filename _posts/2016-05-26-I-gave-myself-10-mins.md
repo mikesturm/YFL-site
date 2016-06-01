@@ -19,6 +19,8 @@ There is something so magical about the first cup of coffee in the morning. It's
 
 These little things keep me going when I feel so tired, and somehow manage to establish momentum for the day ahead. It's no wonder, then, that so many pieces have been written about doing things in the morning, first thing. But perhaps there's even more to it than that.
 
+<!--more-->
+
 I have just started reading [*Deep Work*](http://calnewport.com/books/deep-work/) by Cal Newport, and he makes a great point about willpower. He says (and I'm paraphrasing here) that willpower is not some manifestation of character that can just be called upon at any time. It's not something that some people always have and others just don't. It is like a muscle, and as you use it more during the day, it gets fatigued. This is why rest is so important, but it's probably also why that first cup of coffee is also so important. Being able to just sit and allow the ritual of the coffee to wash away the things that were weighing on me so much last night allows me to take on things today with renewed vigor. It also justifies that attitude of "I just can't deal with this now."
 
 But more than anything, I think that it's important to safeguard this time in the morning, to make sure that I use it properly. This time should be where I stretch that muscle of willpower---the one that I need to use in order to do deep work throughout the day. But I need to *stretch* it, not start putting it under load. That's an important difference, because if I do the latter, I can effectively ruin the balance of my day by having fatigued the very muscle that stands to help me strengthen my body of work.
