@@ -12,6 +12,8 @@ comments: true
 
 Eight years ago, in May of 2008, I found myself in a jail cell, playing Scrabble with an 18 year-old kid named Argyle. He was completely certain---despite my initial insistence---that *dopey* wasn't a word. And if the jail's copy of the Scrabble dictionary was anything to go by, he was right. Something told me that this was not the time or place to invoke my nearly perfect writing score on the GRE, so I conceded. I let him have that one, and eventually, the game. I chose instead to retreat to the dark common bunk that I shared with 8 other guys, to lay down and reflect on what the hell had happened to my life. How did I go from a promising tenure as a grad student, on track to get PhD and achieve my dreams to sleeping on a paper-thin county jail mattress? Surely, I had made an error.
 
+<!--more-->
+
 
 ## The Thing About Errors...
 
