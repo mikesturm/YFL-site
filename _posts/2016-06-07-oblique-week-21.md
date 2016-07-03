@@ -16,7 +16,7 @@ Every day, I catch myself thinking something that I know I shouldn't. Someone cu
 
 I live 99% of my life, as I'm guessing you do, suppressing this worst impulse. I try to be generous, kind, and practice restraint. That is fine; it's what we should be doing most of the time. But only doing that is actually not good for us. It effectively ignores the deeper issue. If we ever wish to be better people, we need to address those parts of us represent our worst impulses. We need to set aside time to do exactly the opposite of what we spend most of our days doing. Perhaps we can actually gain something if we *give way to our worst impulse*---at least for a little bit.
 
-
+<!--more-->
 
 ## Get to Know Your Id
 
