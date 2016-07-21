@@ -1,6 +1,6 @@
 ---
 layout: post
-title:A Little Hack to Make Your Day Go Better
+title: A Little Hack to Make Your Day Go Better
 subtitle:
 tags: [lifehack, productivity, goals]
 published: true
