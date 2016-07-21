@@ -8,15 +8,9 @@ permalink: day-hacking
 comments: true
 ---
 ![days go by]({{ site.baseurl }}graphics/calendar.jpeg)
-
 credit: https://www.flickr.com/photos/dafnecholet/
 {: style="text-align: center; font-size: small"}
 
-
-
-![](https://cdn-images-1.medium.com/max/800/1*KmbrNur7Boa-EDVoya0tmQ.jpeg)
-<span class="figcaption_hack">credit:
-[https://www.flickr.com/photos/dafnecholet/](https://www.flickr.com/photos/dafnecholet/)</span>
 
 How did you decide what to do today?
 
