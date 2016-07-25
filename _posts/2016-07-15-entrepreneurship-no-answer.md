@@ -7,7 +7,7 @@ published: true
 permalink: entrepreneurship-no-answer
 comments: true
 ---
-![a sea of news]({{ site.baseurl }}graphics/kid-computer.jpeg)
+![]({{ site.baseurl }}graphics/kid-computer.jpeg)
 
 You wouldn't *believe* his burn rate...
 {: style="text-align: center; font-size: small"}

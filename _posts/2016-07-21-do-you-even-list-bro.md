@@ -7,7 +7,7 @@ published: true
 permalink: day-hacking
 comments: true
 ---
-![list]({{ site.baseurl }}graphics/to-do.jpeg)
+![list]({{ site.baseurl }}graphics/to-do.jpg)
 
 
 There is much ado about to-dos.
@@ -42,7 +42,7 @@ That means that you can get 50 things done today, tomorrow, and the next day
 productive. Crazy, no? If the 150 things you crossed off your list are not
 attached to worthwhile goals of yours, you were unproductive.
 
-### An Admonition
+## An Admonition
 
 We hear a lot these days about the d[angers of getting sucked in to checking our
 phone too
@@ -71,7 +71,7 @@ on your plate fit into the box of your overall life goals. If you can’t see th
 fit, then you may just be busy for busy’s sake---and that is the antithesis of
 adding value.
 
-### TL;DR
+## TL;DR
 
 If you have a to-do list, each action on there should be one that you can very
 quickly connect to an overall life goal of yours. If you have more than a few of
