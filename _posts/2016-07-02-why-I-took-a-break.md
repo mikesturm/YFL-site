@@ -21,6 +21,7 @@ But the funny thing about your life is that it's not just *your* life.
 
 This was proven to me very recently, in fact. My wife's close childhood friend, who was the maid of honor at our wedding 6 years ago, passed away very suddenly last weekend. She was 31. She wasn't sick, she wasn't engaging in risky behavior. She was on a pontoon boat parked in the river, and a fishing boat literally hit her, and killed her.
 
+<!--more-->
 
 Back to my point about your life not just being *your* life. This woman who died so unexpectedly left behind 3 young kids, a husband, numerous family members, and close friends. They are all grieving---and it's heartbreaking. Her life ended, but so did all of those people's lives *with* her. Her life was not just hers, it was all of theirs. There is so much interconnection, so much buttressing of others' feelings, hopes, and dreams upon your life, and that simple fact is so often and so easily forgotten.
 

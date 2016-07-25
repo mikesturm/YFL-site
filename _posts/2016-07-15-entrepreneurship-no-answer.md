@@ -30,6 +30,8 @@ confounding questions---and attempt to find answers for them. I wanted to be
 able to do that freely, and without regard to any other goal save finding the
 truth. How naive of me.
 
+<!--me-->
+
 As it turns out, in the real world, truth is a secondary goal at best. Yes, the
 Silicon Valley set *loves* ideas. They love the idea of people who *love* ideas.
 But all that is secondary to a love of whatever will turn into cash from the

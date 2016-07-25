@@ -23,6 +23,8 @@ You see I *do* read the news, a little. I’ve limited myself to literally
 [Quartz](http://qz.com/)’s weekday email bulletin, and whatever few minutes of
 NPR I hear during my morning routine (not technically *reading*, though).
 
+<!--more-->
+
 I used to make following the news a priority. I used to value knowing the ins
 and outs of current events---the political issues of the day, the big goings on.
 To me, being up to date and in the know about the broader world around me was

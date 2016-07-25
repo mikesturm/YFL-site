@@ -28,6 +28,8 @@ up and let the day take us where it will. Often times, that is when we feel the
 most stressed---which is weird because usually we think of having to make a
 bunch of decisions as really taxing.
 
+<!--more-->
+
 Take heart, friends. This happens, and will continue to happen here and there.
 The problem, though, is when things go this way on *most *days. That is when you
 begin to feel like you are not yourself. You live each day feeling like you’re
