@@ -28,6 +28,8 @@ day that one week in October! Holy smokes!
 
 You caught the snark, right?
 
+<!--more-->
+
 Yes, it is important to cross items off of your list---I won’t deny that. But
 crossing a bunch of items off of a list (or several lists) is not what
 productivity is all about. In fact, too much focus on that actually undermines
