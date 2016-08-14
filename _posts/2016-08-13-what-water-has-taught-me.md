@@ -4,7 +4,7 @@ title: What Water Has Taught Me
 subtitle:
 tags: [self-improvement, growth, wisdom]
 published: true
-permalink: play-hard
+permalink: what-water-has-taught-me
 comments: true
 ---
 
